@@ -113,7 +113,6 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
-- [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
 - [solidity](#solidity)
@@ -175,7 +174,6 @@
 ## api 
 
 - [erev0s/VAmPI](https://github.com/erev0s/VAmPI) - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
-- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [MrEmpy/mantra](https://github.com/MrEmpy/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
 
@@ -194,6 +192,7 @@
 
 ## awesome 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
@@ -209,6 +208,7 @@
 
 ## awesome-list 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
@@ -237,7 +237,6 @@
 
 - [TailAdmin/tailadmin-free-tailwind-dashboard-template](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template) - Free and Open-source Tailwind CSS Dashboard Admin Template that comes with all essential dashboard UI components, pages and elements
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 
 ## bash 
 
@@ -662,7 +661,6 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [oppsec/Pinkerton](https://github.com/oppsec/Pinkerton) - 🕵️ Pinkerton is an JavaScript file crawler and secret finder tool developed in Python
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
-- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [MrEmpy/mantra](https://github.com/MrEmpy/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
 - [ColonelParrot/jscanify](https://github.com/ColonelParrot/jscanify) - Open-source Javascript mobile document scanner.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -1138,7 +1136,6 @@
 - [Cvar1984/sussyfinder](https://github.com/Cvar1984/sussyfinder) - Single PHP file to detect potentially malicious threats based on token and hash with web interface
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 
 ## postgresql 
 
@@ -1410,10 +1407,6 @@
 
 - [lukejacksonn/servor](https://github.com/lukejacksonn/servor) - Dependency free file server for single page app development
 - [K3V1991/Disable-Firefox-Telemetry-and-Data-Collection](https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection) - How to disable Firefox Telemetry and Data Collection
-
-## serverless 
-
-- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 
 ## shell 
 
