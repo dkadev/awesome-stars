@@ -221,6 +221,7 @@
 
 ## Others 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
@@ -262,7 +263,6 @@
 - [adegans/Goosle](https://github.com/adegans/Goosle) - A Meta Search engine with privacy and ease of use in mind
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [globocom/secDevLabs](https://github.com/globocom/secDevLabs) - A laboratory for learning secure web and mobile development in a practical manner.
-- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 
 ## Perl 
 
