@@ -470,6 +470,7 @@
 
 ## git 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -1439,6 +1440,7 @@
 
 ## terminal 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 - [JoshuaKasa/van-gonography](https://github.com/JoshuaKasa/van-gonography) - Hide 🕵️‍♂️ your files of any type inside a image of your choice using steganography
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
