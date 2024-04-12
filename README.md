@@ -205,7 +205,6 @@
 
 ## Jupyter Notebook 
 
-- [spyboy-productions/Valid8Proxy](https://github.com/spyboy-productions/Valid8Proxy) - Tool designed for fetching, validating, and storing working proxies.
 - [spyboy-productions/CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare & Others
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 
@@ -323,6 +322,7 @@
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [catsploit/catsploit](https://github.com/catsploit/catsploit) - 
 - [justakazh/DockerExploit](https://github.com/justakazh/DockerExploit) - Docker Remote API Scanner and Exploit
+- [spyboy-productions/Valid8Proxy](https://github.com/spyboy-productions/Valid8Proxy) - Tool designed for fetching, validating, and storing working proxies.
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [Slowerzs/ThievingFox](https://github.com/Slowerzs/ThievingFox) - 
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
