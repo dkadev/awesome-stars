@@ -353,7 +353,7 @@
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [dragonked2/Egyscan](https://github.com/dragonked2/Egyscan) - Egyscan The Best web vulnerability scanner; it's a multifaceted security powerhouse designed to fortify your web applications against malicious threats. Let's delve into the tasks and functions that m
 - [devXprite/infoooze](https://github.com/devXprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
-- [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and fast!, security-oriented HTTP headers analyzer.
+- [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.
 - [lewiswigmore/Virus.xcheck](https://github.com/lewiswigmore/Virus.xcheck) - Virus.xcheck is a Python tool designed to bulk verify the existence of file hashes in the Virus Exchange database and fetch download URLs for malware analysis.
 - [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg) - Nidhogg is an all-in-one simple to use rootkit.
 - [HalilDeniz/NetworkAssessment](https://github.com/HalilDeniz/NetworkAssessment) - NetworkAssessment: Network Compromise Assessment Tool
@@ -641,7 +641,7 @@
 ## http 
 
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-- [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and fast!, security-oriented HTTP headers analyzer.
+- [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
 - [santoru/shcheck](https://github.com/santoru/shcheck) - A basic tool to check security headers of a website
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
@@ -1253,7 +1253,7 @@
 - [oppsec/tomcter](https://github.com/oppsec/tomcter) - 😹 Tomcter is a python tool developed to bruteforce Apache Tomcat manager login with default credentials.
 - [N0rz3/Phunter](https://github.com/N0rz3/Phunter) - Phunter is an osint tool allowing you to find various information via a phone number 🔎📞
 - [HalilDeniz/NetworkSherlock](https://github.com/HalilDeniz/NetworkSherlock) - NetworkSherlock: powerful and flexible port scanning tool With Shodan
-- [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and fast!, security-oriented HTTP headers analyzer.
+- [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.
 - [lewiswigmore/Virus.xcheck](https://github.com/lewiswigmore/Virus.xcheck) - Virus.xcheck is a Python tool designed to bulk verify the existence of file hashes in the Virus Exchange database and fetch download URLs for malware analysis.
 - [HalilDeniz/TrafficWatch](https://github.com/HalilDeniz/TrafficWatch) - TrafficWatch, a packet sniffer tool, allows you to monitor and analyze network traffic from PCAP files
 - [HalilDeniz/PathFinder](https://github.com/HalilDeniz/PathFinder) - Web Path Finder
@@ -1357,7 +1357,7 @@
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [xlab-si/iac-scan-runner](https://github.com/xlab-si/iac-scan-runner) - Service that scans your Infrastructure as Code for common vulnerabilities
 - [MandConsultingGroup/porch-pirate](https://github.com/MandConsultingGroup/porch-pirate) - Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collec
-- [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and fast!, security-oriented HTTP headers analyzer.
+- [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [liamg/furious](https://github.com/liamg/furious) - :angry: Go IP/port scanner with SYN (stealth) scanning and device manufacturer identification
 - [troennes/private-secure-windows](https://github.com/troennes/private-secure-windows) - Privacy and security baseline for personal Windows 10 and Windows 11
