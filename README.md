@@ -361,7 +361,7 @@
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) - OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container ima
 - [spyboy-productions/CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare & Others
 - [MandConsultingGroup/porch-pirate](https://github.com/MandConsultingGroup/porch-pirate) - Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collec
-- [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and fast!, security-oriented HTTP headers analyzer.
+- [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.
 - [lewiswigmore/Virus.xcheck](https://github.com/lewiswigmore/Virus.xcheck) - Virus.xcheck is a Python tool designed to bulk verify the existence of file hashes in the Virus Exchange database and fetch download URLs for malware analysis.
 - [dchrastil/ScrapedIn](https://github.com/dchrastil/ScrapedIn) - A tool to scrape LinkedIn without API restrictions for data reconnaissance
 - [0xB455/m365-fatigue](https://github.com/0xB455/m365-fatigue) - 
