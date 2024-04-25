@@ -333,7 +333,7 @@
 
 ## css 
 
-- [sveltecult/franken-ui](https://github.com/sveltecult/franken-ui) - Franken UI is a UI library of common web components. It is a based on UIkit 3 exposed as a Tailwind CSS plugin.
+- [sveltecult/franken-ui](https://github.com/sveltecult/franken-ui) - Franken UI is an HTML-first, open-source library of UI components based on the utility-first Tailwind CSS with UIkit 3 compatibility. The design is based on shadcn/ui ported to be framework-agnostic.
 - [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
@@ -469,7 +469,7 @@
 
 ## framework 
 
-- [sveltecult/franken-ui](https://github.com/sveltecult/franken-ui) - Franken UI is a UI library of common web components. It is a based on UIkit 3 exposed as a Tailwind CSS plugin.
+- [sveltecult/franken-ui](https://github.com/sveltecult/franken-ui) - Franken UI is an HTML-first, open-source library of UI components based on the utility-first Tailwind CSS with UIkit 3 compatibility. The design is based on shadcn/ui ported to be framework-agnostic.
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [redeye-framework/Redeye](https://github.com/redeye-framework/Redeye) - Redeye is a tool intended to help you manage your data during a pentest operation
 - [PhoenixC2/PhoenixC2](https://github.com/PhoenixC2/PhoenixC2) - Command & Control-Framework created for collaboration in python3
@@ -897,6 +897,7 @@
 
 ## others 
 
+- [OWASP/OFFAT](https://github.com/OWASP/OFFAT) - The OWASP OFFAT tool autonomously assesses your API for prevalent vulnerabilities, though full compatibility with OAS v3 is pending. The project remains a work in progress, continuously evolving towar
 - [bats3c/darkarmour](https://github.com/bats3c/darkarmour) - Windows AV Evasion
 - [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 - [marco-liberale/PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2-less RAT
