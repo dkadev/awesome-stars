@@ -65,7 +65,7 @@
 - [SnaffCon/Snaffler](https://github.com/SnaffCon/Snaffler) - a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax )
 - [svenmauch/WinSlap](https://github.com/svenmauch/WinSlap) - Swiftly configure a fresh Windows 10 installation with useful tweaks and privacy settings.
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-- [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - Your everyday Windows companion
+- [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - The manic cousin of Microsoft Copilot
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [microsoft/AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) - Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 
@@ -280,6 +280,7 @@
 
 ## PowerShell 
 
+- [securityjoes/MasterParser](https://github.com/securityjoes/MasterParser) - MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux logs
 - [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [splunk/ShellSweep](https://github.com/splunk/ShellSweep) - ShellSweeping the evil.
 - [nickvourd/Windows-Local-Privilege-Escalation-Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook) - Windows Local Privilege Escalation Cookbook
