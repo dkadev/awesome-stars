@@ -222,7 +222,7 @@
 
 ## Nim 
 
-- [emrekybs/nim-shell](https://github.com/emrekybs/nim-shell) - Reverse shell that can bypass windows defender detection
+- [mesela12/nim-shell](https://github.com/mesela12/nim-shell) - Reverse shell that can bypass windows defender detection
 
 ## OCaml 
 
@@ -539,7 +539,7 @@
 - [trickest/inventory](https://github.com/trickest/inventory) - Asset inventory of over 800 public bug bounty programs.
 - [vm32/Digital-Forensics-Script-for-Linux](https://github.com/vm32/Digital-Forensics-Script-for-Linux) - Advanced Bash script designed for conducting digital forensics on Linux systems
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
-- [emrekybs/AD-AssessmentKit](https://github.com/emrekybs/AD-AssessmentKit) - Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, 
+- [mesela12/AD-AssessmentKit](https://github.com/mesela12/AD-AssessmentKit) - Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, 
 - [psbelin/ip_widget](https://github.com/psbelin/ip_widget) - Taskbar IP widget for kali linux (or any distro running XFCE)
 - [rootcathacking/catspin](https://github.com/rootcathacking/catspin) - Catspin rotates the IP address of HTTP requests making IP based blocks or slowdown measures ineffective. It is based on AWS API Gateway and deployed via AWS Cloudformation.
 - [SherlockLinux/SherlockLinux](https://github.com/SherlockLinux/SherlockLinux) - Distribución para OSINT basada en Debian 12 / OSINT Distribution based in Debian 12
