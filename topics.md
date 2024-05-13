@@ -532,7 +532,7 @@
 
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for building complex, real-world software with LLMs
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: an LLM-powered web honeypot using the OpenAI API.
+- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: an LLM-powered web honeypot!
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -774,7 +774,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for building complex, real-world software with LLMs
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [dhammon/ai-goat](https://github.com/dhammon/ai-goat) - Learn AI security through a series of vulnerable LLM CTF challenges. No sign ups, no cloud fees, run everything locally on your system.
-- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: an LLM-powered web honeypot using the OpenAI API.
+- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: an LLM-powered web honeypot!
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
@@ -902,6 +902,7 @@
 
 ## osint 
 
+- [spyboy-productions/omnisci3nt](https://github.com/spyboy-productions/omnisci3nt) - Unveiling the Hidden Layers of the Web – A Comprehensive Web Reconnaissance Tool
 - [MetaOSINT/MetaOSINT.github.io](https://github.com/MetaOSINT/MetaOSINT.github.io) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.
 - [AnonCatalyst/Ominis-Osint](https://github.com/AnonCatalyst/Ominis-Osint) - This Python script is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Web Hunter." It performs online information gathering by querying Google for search results related to a user-inpu
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
@@ -1185,7 +1186,7 @@
 - [trickest/inventory](https://github.com/trickest/inventory) - Asset inventory of over 800 public bug bounty programs.
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) - Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
 - [casterbyte/MITMonster](https://github.com/casterbyte/MITMonster) - A monster cheatsheet on MITM attacks
-- [mesela12/AD-AssessmentKit](https://github.com/mesela12/AD-AssessmentKit) - Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, 
+- [emrekybs/AD-AssessmentKit](https://github.com/emrekybs/AD-AssessmentKit) - Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, 
 - [psbelin/ip_widget](https://github.com/psbelin/ip_widget) - Taskbar IP widget for kali linux (or any distro running XFCE)
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data collector for BloodHound written in Rust. 🦀
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
@@ -1420,7 +1421,7 @@
 - [gbiagomba/Sherlock](https://github.com/gbiagomba/Sherlock) - This script is designed to help expedite a web application assessment by automating some of the assessment steps (e.g., running nmap, sublist3r, metasploit, etc.)
 - [AleksaMCode/Preferred-Network-List-Sniffer](https://github.com/AleksaMCode/Preferred-Network-List-Sniffer) - A reconnaissance tool for capturing and displaying SSIDs from device's Preferred Network List.
 - [trickest/inventory](https://github.com/trickest/inventory) - Asset inventory of over 800 public bug bounty programs.
-- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: an LLM-powered web honeypot using the OpenAI API.
+- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: an LLM-powered web honeypot!
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) - Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
@@ -1634,7 +1635,7 @@
 
 ## windows 
 
-- [mesela12/nim-shell](https://github.com/mesela12/nim-shell) - Reverse shell that can bypass windows defender detection
+- [emrekybs/nim-shell](https://github.com/emrekybs/nim-shell) - Reverse shell that can bypass windows defender detection
 - [nickvourd/Windows-Local-Privilege-Escalation-Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook) - Windows Local Privilege Escalation Cookbook
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data collector for BloodHound written in Rust. 🦀
 - [drak3hft7/Cheat-Sheet---Active-Directory](https://github.com/drak3hft7/Cheat-Sheet---Active-Directory) - This cheat sheet contains common enumeration and attack methods for Windows Active Directory with the use of powershell.
