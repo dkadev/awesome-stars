@@ -311,7 +311,7 @@
 - [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator) - SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty
 - [sarperavci/GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
 - [login-securite/lsassy](https://github.com/login-securite/lsassy) - Extract credentials from lsass remotely
-- [AnonCatalyst/Ominis-Osint](https://github.com/AnonCatalyst/Ominis-Osint) - This Python script is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Web Hunter." It performs online information gathering by querying Google for search results related to a user-inpu
+- [AnonCatalyst/Ominis-Osint](https://github.com/AnonCatalyst/Ominis-Osint) - This Python application is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Web Hunter." It performs online information gathering by querying Google for search results related to a user
 - [OWASP/OFFAT](https://github.com/OWASP/OFFAT) - The OWASP OFFAT tool autonomously assesses your API for prevalent vulnerabilities, though full compatibility with OAS v3 is pending. The project remains a work in progress, continuously evolving towar
 - [bats3c/darkarmour](https://github.com/bats3c/darkarmour) - Windows AV Evasion
 - [latiotech/insecure-kubernetes-deployments](https://github.com/latiotech/insecure-kubernetes-deployments) - A full insecure kubernetes application for testing security tools
