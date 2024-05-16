@@ -46,6 +46,7 @@
 
 ## C# # 
 
+- [mlcsec/SharpGraphView](https://github.com/mlcsec/SharpGraphView) - Microsoft Graph API post-exploitation toolkit
 - [HernanRodriguez1/SharpBruteForceSSH](https://github.com/HernanRodriguez1/SharpBruteForceSSH) - 
 - [Syslifters/offsec-tools](https://github.com/Syslifters/offsec-tools) - Compiled tools for internal assessments
 - [surajpkhetani/AutoSmuggle](https://github.com/surajpkhetani/AutoSmuggle) - Utility to craft HTML or SVG smuggled files for Red Team engagements
@@ -528,6 +529,7 @@
 
 ## Shell 
 
+- [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research,
 - [0xKayala/NucleiScanner](https://github.com/0xKayala/NucleiScanner) - NucleiScanner is a Powerful Automation tool for detecting Unknown Vulnerabilities in the Web Applications
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) - Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
