@@ -950,6 +950,7 @@
 
 ## others 
 
+- [mlcsec/SharpGraphView](https://github.com/mlcsec/SharpGraphView) - Microsoft Graph API post-exploitation toolkit
 - [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) - JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. Also includes a C2 for executing custom JavaScr
 - [HernanRodriguez1/SharpBruteForceSSH](https://github.com/HernanRodriguez1/SharpBruteForceSSH) - 
 - [jfjallid/go-secdump](https://github.com/jfjallid/go-secdump) - Tool to remotely dump secrets from the Windows registry
@@ -1404,6 +1405,7 @@
 
 ## security 
 
+- [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research,
 - [MetaOSINT/MetaOSINT.github.io](https://github.com/MetaOSINT/MetaOSINT.github.io) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.
 - [securityjoes/MasterParser](https://github.com/securityjoes/MasterParser) - MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux logs
 - [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
