@@ -92,7 +92,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [marco-liberale/PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2-less RAT
 - [trap-bytes/hauditor](https://github.com/trap-bytes/hauditor) - hauditor is a tool designed to analyze the security headers returned by a web page.
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for building complex, real-world software with LLMs
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Robust AI driven development in your terminal. Designed for large, real-world tasks in new or existing codebases.
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
