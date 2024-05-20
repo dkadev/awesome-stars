@@ -88,6 +88,7 @@
 
 ## Go 
 
+- [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [jfjallid/go-secdump](https://github.com/jfjallid/go-secdump) - Tool to remotely dump secrets from the Windows registry
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -233,6 +234,7 @@
 
 ## Others 
 
+- [0xVIC/Diccionarios](https://github.com/0xVIC/Diccionarios) - Fuzzing en español
 - [tldrsec/awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) - Awesome secure by default libraries to help you eliminate bug classes!
 - [Syslifters/HackTheBox-Reporting](https://github.com/Syslifters/HackTheBox-Reporting) - Hack The Box CPTS, CBBH Exam and Lab Reporting / Note-Taking Tool
 - [col-1002/HTB-CPTS](https://github.com/col-1002/HTB-CPTS) - Most of the notes, resources and scripts I used to prepare for the HTB CPTS and "pass it the 2 time."
@@ -532,6 +534,7 @@
 
 ## Shell 
 
+- [diego-treitos/linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) - Linux enumeration tool for pentesting and CTFs with verbosity levels
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research,
 - [0xKayala/NucleiScanner](https://github.com/0xKayala/NucleiScanner) - NucleiScanner is a Powerful Automation tool for detecting Unknown Vulnerabilities in the Web Applications
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
@@ -584,7 +587,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
-- [sveltecult/franken-ui](https://github.com/sveltecult/franken-ui) - Franken UI is an HTML-first, open-source library of UI components based on the utility-first Tailwind CSS with UIkit 3 compatibility. The design is based on shadcn/ui ported to be framework-agnostic.
+- [sveltecult/franken-ui](https://github.com/sveltecult/franken-ui) - Franken UI is an HTML-first, open-source library of UI components that works as a standalone or as a Tailwind CSS plugin. It is compatible with UIkit 3. The design is influenced by shadcn/ui.
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination.
 - [Abhinandan-Kushwaha/react-native-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts) - The most complete library for Bar, Line, Area, Pie, Donut, Stacked Bar and Population Pyramid charts in React Native. Allows 2D, 3D, gradient, animations and live data updates.
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
