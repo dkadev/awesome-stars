@@ -952,6 +952,7 @@
 
 ## others 
 
+- [puzzlepeaches/awesome-password-spraying](https://github.com/puzzlepeaches/awesome-password-spraying) - Everything and anything related to password spraying
 - [0xVIC/Diccionarios](https://github.com/0xVIC/Diccionarios) - Fuzzing en español
 - [Leo4j/Invoke-SessionHunter](https://github.com/Leo4j/Invoke-SessionHunter) - Retrieve and display information about active user sessions on remote computers. No admin privileges required.
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
