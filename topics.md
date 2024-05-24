@@ -777,7 +777,7 @@
 - [Fadi002/unshackle](https://github.com/Fadi002/unshackle) - Open-source tool to bypass windows and linux passwords from bootable usb
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
-- [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
+- [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [jaykali/maskphish](https://github.com/jaykali/maskphish) - Introducing "URL Making Technology" to the world for the very FIRST TIME. Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
 
@@ -1336,7 +1336,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
-- [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
+- [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
@@ -1362,7 +1362,7 @@
 - [oppsec/Pinkerton](https://github.com/oppsec/Pinkerton) - 🕵️ Pinkerton is an JavaScript file crawler and secret finder tool developed in Python
 - [thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
 - [PhoenixC2/PhoenixC2](https://github.com/PhoenixC2/PhoenixC2) - Command & Control-Framework created for collaboration in python3
-- [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
+- [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## qt 
@@ -1515,7 +1515,7 @@
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [MrEmpy/mantra](https://github.com/MrEmpy/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
-- [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
+- [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -1680,7 +1680,7 @@
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
 - [svenmauch/WinSlap](https://github.com/svenmauch/WinSlap) - Swiftly configure a fresh Windows 10 installation with useful tweaks and privacy settings.
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-- [xemulat/XToolbox](https://github.com/xemulat/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
+- [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) - Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
