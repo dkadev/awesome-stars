@@ -963,7 +963,7 @@
 
 ## others 
 
-- [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender. (through the WSC api)
+- [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender + firewall. (through the WSC api)
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
 - [shreyaschavhan/advanced-sql-injection-for-awae](https://github.com/shreyaschavhan/advanced-sql-injection-for-awae) - 
 - [puzzlepeaches/awesome-password-spraying](https://github.com/puzzlepeaches/awesome-password-spraying) - Everything and anything related to password spraying
