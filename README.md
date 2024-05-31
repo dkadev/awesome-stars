@@ -304,7 +304,6 @@
 - [Leo4j/Amnesiac](https://github.com/Leo4j/Amnesiac) - Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments
 - [troennes/private-secure-windows](https://github.com/troennes/private-secure-windows) - Privacy and security baseline for personal Windows 10 and Windows 11
 - [gustanini/PowerTools](https://github.com/gustanini/PowerTools) - Powershell tools used for Red Team / Pentesting.
-- [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no-cost and open logging and protective monitoring solution serving all organizations.
 - [0xDEADFED5/ps_tiny11](https://github.com/0xDEADFED5/ps_tiny11) - This script creates a trimmed-down Windows 11 image, based on tiny11builder
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
@@ -406,6 +405,7 @@
 - [Sn1r/Forbidden-Buster](https://github.com/Sn1r/Forbidden-Buster) - A tool designed to automate various techniques in order to bypass HTTP 401 and 403 response codes and gain access to unauthorized areas in the system. This code is made for security enthusiasts and pr
 - [HalilDeniz/NetworkAssessment](https://github.com/HalilDeniz/NetworkAssessment) - NetworkAssessment: Network Compromise Assessment Tool
 - [HalilDeniz/TrafficWatch](https://github.com/HalilDeniz/TrafficWatch) - TrafficWatch, a packet sniffer tool, allows you to monitor and analyze network traffic from PCAP files
+- [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no-cost and open logging and protective monitoring solution serving all organizations.
 - [HalilDeniz/PathFinder](https://github.com/HalilDeniz/PathFinder) - Web Path Finder
 - [gojek/CureIAM](https://github.com/gojek/CureIAM) - Clean accounts over permissions in GCP infra at scale
 - [c3c/ADExplorerSnapshot.py](https://github.com/c3c/ADExplorerSnapshot.py) - ADExplorerSnapshot.py is an AD Explorer snapshot parser. It is made as an ingestor for BloodHound, and also supports full-object dumping to NDJSON.
