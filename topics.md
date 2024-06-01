@@ -158,7 +158,7 @@
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
 - [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant) - gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -276,7 +276,7 @@
 
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [morpheuslord/GPT_Vuln-analyzer](https://github.com/morpheuslord/GPT_Vuln-analyzer) - Uses ChatGPT API, Bard API, and Llama2, Python-Nmap, DNS Recon, PCAP and JWT recon modules and uses the GPT3 model to create vulnerability reports based on Nmap scan data, and DNS scan information. It
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
 - [Rxm0n/freegpt-webui](https://github.com/Rxm0n/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
@@ -418,7 +418,7 @@
 - [adaptive-scale/dbchaos](https://github.com/adaptive-scale/dbchaos) - Stress-test your database with pre-defined queries. Generate synthetic data and events statically or with GPT.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained access control for customer applications
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained authorization for customer applications
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 
 ## deep-learning 
@@ -636,7 +636,7 @@
 - [noraj/haiti](https://github.com/noraj/haiti) - :key: Hash type identifier (CLI & lib)
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [konstruktoid/ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening) - Ansible role to apply a security baseline. Systemd edition.
-- [Cvar1984/sussyfinder](https://github.com/Cvar1984/sussyfinder) - Single PHP file to detect potentially malicious threats based on token and hash with web interface
+- [Cvar1984/sussyfinder](https://github.com/Cvar1984/sussyfinder) - Single PHP file to detect potentially malicious threats based on token and hash with web interface and VirusTotal integrations
 - [oppsec/tomcter](https://github.com/oppsec/tomcter) - 😹 Tomcter is a python tool developed to bruteforce Apache Tomcat manager login with default credentials.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -751,7 +751,7 @@
 - [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Kubernetes Attack Graph
 - [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
 - [cuber-cloud/cuber-gem](https://github.com/cuber-cloud/cuber-gem) - An automation tool that simplify the deployment of your apps on Kubernetes.
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained access control for customer applications
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained authorization for customer applications
 - [carlospolop/PurplePanda](https://github.com/carlospolop/PurplePanda) - Identify privilege escalation paths within and across different clouds
 
 ## language 
@@ -794,7 +794,7 @@
 - [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: LLM-powered web honeypot. Wasting attackers' time with faker-than-ever HTTP responses!
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
 - [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant) - gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
@@ -912,7 +912,7 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among conn
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
@@ -1256,7 +1256,7 @@
 
 ## php 
 
-- [Cvar1984/sussyfinder](https://github.com/Cvar1984/sussyfinder) - Single PHP file to detect potentially malicious threats based on token and hash with web interface
+- [Cvar1984/sussyfinder](https://github.com/Cvar1984/sussyfinder) - Single PHP file to detect potentially malicious threats based on token and hash with web interface and VirusTotal integrations
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
@@ -1512,7 +1512,7 @@
 - [cado-security/varc](https://github.com/cado-security/varc) - Volatile Artifact Collector collects a snapshot of volatile data from a system. It tells you what is happening on a system, and is of particular use when investigating a security incident.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) - Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained access control for customer applications
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained authorization for customer applications
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 200 common, vulnerable components (openssl, libpng, libxml2, expat and others), or
 - [noir-cr/noir](https://github.com/noir-cr/noir) - Attack surface detector that identifies endpoints by static analysis
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
@@ -1643,7 +1643,7 @@
 ## visual-studio-code 
 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
 
 ## vue 
 
