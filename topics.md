@@ -963,6 +963,7 @@
 
 ## others 
 
+- [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies directly from Chrome process memory
 - [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender + firewall. (through the WSC api)
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
 - [shreyaschavhan/advanced-sql-injection-for-awae](https://github.com/shreyaschavhan/advanced-sql-injection-for-awae) - 
