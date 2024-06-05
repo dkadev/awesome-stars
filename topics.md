@@ -963,6 +963,8 @@
 
 ## others 
 
+- [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
+- [MultSec/MultCheck](https://github.com/MultSec/MultCheck) - Identifies bad bytes from static analysis with any Anti-Virus scanner.
 - [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies directly from Chrome process memory
 - [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender + firewall. (through the WSC api)
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
