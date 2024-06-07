@@ -322,6 +322,7 @@
 
 ## Python 
 
+- [skelsec/pypykatz](https://github.com/skelsec/pypykatz) - Mimikatz implementation in pure Python
 - [Azure/Stormspotter](https://github.com/Azure/Stormspotter) - Azure Red Team tool for graphing Azure and Azure Active Directory objects
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. 
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
@@ -649,7 +650,7 @@
 
 ## YARA 
 
-- [chainguard-dev/bincapz](https://github.com/chainguard-dev/bincapz) - enumerate binary capabilities, including malicious behaviors
+- [chainguard-dev/bincapz](https://github.com/chainguard-dev/bincapz) - detect malicious program behaviors
 
 
 ## License
