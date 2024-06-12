@@ -1005,6 +1005,7 @@
 
 ## others 
 
+- [RedByte1337/GraphSpy](https://github.com/RedByte1337/GraphSpy) - Initial Access and Post-Exploitation Tool for AAD and O365 with a browser-based GUI
 - [tylerdotrar/Unfuck-Windows10](https://github.com/tylerdotrar/Unfuck-Windows10) - Script meant to debloat Windows 10, enhance privacy, and improve performance & the overall user experience.
 - [tylerdotrar/SigmaPotato](https://github.com/tylerdotrar/SigmaPotato) - SeImpersonate privilege escalation tool for Windows 8 - 11 and Windows Server 2012 - 2022 with extensive PowerShell and .NET reflection support.
 - [AlteredSecurity/Disable-TamperProtection](https://github.com/AlteredSecurity/Disable-TamperProtection) - A POC to disable TamperProtection and other Defender / MDE components
