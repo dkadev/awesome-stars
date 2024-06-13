@@ -379,6 +379,7 @@
 
 ## cybersecurity 
 
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 - [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
 - [MetaOSINT/MetaOSINT.github.io](https://github.com/MetaOSINT/MetaOSINT.github.io) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
@@ -583,6 +584,7 @@
 
 ## hacking 
 
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 - [FLOCK4H/Freeway](https://github.com/FLOCK4H/Freeway) - WiFi Penetration Testing & Auditing Tool
 - [TupleType/awesome-cicd-attacks](https://github.com/TupleType/awesome-cicd-attacks) - Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.
 - [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
@@ -1488,6 +1490,7 @@
 
 ## security 
 
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. 
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research,
