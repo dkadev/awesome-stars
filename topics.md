@@ -32,6 +32,7 @@
 - [config](#config)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [crystal](#crystal)
 - [csharp](#csharp)
 - [css](#css)
@@ -362,6 +363,14 @@
 ## cryptocurrency 
 
 - [MetaOSINT/MetaOSINT.github.io](https://github.com/MetaOSINT/MetaOSINT.github.io) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.
+
+## cryptography 
+
+- [devploit/awesome-ctf-resources](https://github.com/devploit/awesome-ctf-resources) - A list of Capture The Flag (CTF) frameworks, libraries, resources and software for started/experienced CTF players 🚩
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+- [samuel-lucas6/Cryptography-Guidelines](https://github.com/samuel-lucas6/Cryptography-Guidelines) - Guidance on implementing cryptography as a developer.
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 
 ## crystal 
 
@@ -1008,6 +1017,7 @@
 
 ## others 
 
+- [Diverto/IPPrintC2](https://github.com/Diverto/IPPrintC2) - PoC for using MS Windows printers for persistence / command and control via Internet Printing
 - [An0nUD4Y/Evilginx-Phishing-Infra-Setup](https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup) - Evilginx Phishing Engagement Infrastructure Setup Guide
 - [login-securite/conpass](https://github.com/login-securite/conpass) - Continuous password spraying tool
 - [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data
