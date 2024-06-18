@@ -165,6 +165,7 @@
 
 ## HTML 
 
+- [mrd0x/PWA-Phishing](https://github.com/mrd0x/PWA-Phishing) - 
 - [RedByte1337/GraphSpy](https://github.com/RedByte1337/GraphSpy) - Initial Access and Post-Exploitation Tool for AAD and O365 with a browser-based GUI
 - [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
 - [MetaOSINT/MetaOSINT.github.io](https://github.com/MetaOSINT/MetaOSINT.github.io) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.
