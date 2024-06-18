@@ -1017,6 +1017,7 @@
 
 ## others 
 
+- [mrd0x/PWA-Phishing](https://github.com/mrd0x/PWA-Phishing) - 
 - [Diverto/IPPrintC2](https://github.com/Diverto/IPPrintC2) - PoC for using MS Windows printers for persistence / command and control via Internet Printing
 - [An0nUD4Y/Evilginx-Phishing-Infra-Setup](https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup) - Evilginx Phishing Engagement Infrastructure Setup Guide
 - [login-securite/conpass](https://github.com/login-securite/conpass) - Continuous password spraying tool
