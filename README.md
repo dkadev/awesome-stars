@@ -76,6 +76,7 @@
 
 ## C++ 
 
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide data within JPG images using this steganography privacy tool. Post images on Mastodon and other hosting sites.
 - [AlteredSecurity/Disable-TamperProtection](https://github.com/AlteredSecurity/Disable-TamperProtection) - A POC to disable TamperProtection and other Defender / MDE components
 - [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies directly from Chrome process memory
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
