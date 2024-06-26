@@ -47,6 +47,7 @@
 
 ## C# # 
 
+- [CICADA8-Research/RemoteKrbRelay](https://github.com/CICADA8-Research/RemoteKrbRelay) - Remote Kerberos Relay made easy! Advanced Kerberos Relay Framework
 - [tylerdotrar/SigmaPotato](https://github.com/tylerdotrar/SigmaPotato) - SeImpersonate privilege escalation tool for Windows 8 - 11 and Windows Server 2012 - 2022 with extensive PowerShell and .NET reflection support.
 - [huntandhackett/PassiveAggression](https://github.com/huntandhackett/PassiveAggression) - Source code and examples for PassiveAggression
 - [mlcsec/SharpGraphView](https://github.com/mlcsec/SharpGraphView) - Microsoft Graph API post-exploitation toolkit
