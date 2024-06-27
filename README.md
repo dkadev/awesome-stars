@@ -595,7 +595,7 @@
 - [foozzi/discoshell](https://github.com/foozzi/discoshell) - a simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 - [Orange-Cyberdefense/LinikatzV2](https://github.com/Orange-Cyberdefense/LinikatzV2) - linikatz is a tool to attack AD on UNIX
 - [govolution/avet](https://github.com/govolution/avet) - AntiVirus Evasion Tool
-- [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case mana
+- [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, a
 - [KawaCoder/GhostRecon](https://github.com/KawaCoder/GhostRecon) - Popular OSINT framework. Works fine with kali linux and other Debian-based systems. Coded this as a teen, so not really reliable for real researches.
 - [Kitsun3Sec/Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets) - A collection of snippets of codes and commands to make your life easier!
 - [0xKayala/NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications
