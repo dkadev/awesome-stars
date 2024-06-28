@@ -96,7 +96,7 @@
 ## Go 
 
 - [MultSec/MultCheck](https://github.com/MultSec/MultCheck) - Identifies bad bytes from static analysis with any Anti-Virus scanner.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [jfjallid/go-secdump](https://github.com/jfjallid/go-secdump) - Tool to remotely dump secrets from the Windows registry
