@@ -591,8 +591,7 @@
 ## hacking 
 
 - [adeptex/whispers](https://github.com/adeptex/whispers) - Identify hardcoded secrets in static structured text (version 2)
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide data within JPG images using this steganography privacy tool. Post images on Mastodon and other hosting sites.
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide data within JPG images using this steganography-like privacy tool. Post images on Mastodon and other hosting sites.
 - [FLOCK4H/Freeway](https://github.com/FLOCK4H/Freeway) - WiFi Penetration Testing & Auditing Tool
 - [TupleType/awesome-cicd-attacks](https://github.com/TupleType/awesome-cicd-attacks) - Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.
 - [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
@@ -644,7 +643,7 @@
 ## hacking-tool 
 
 - [adeptex/whispers](https://github.com/adeptex/whispers) - Identify hardcoded secrets in static structured text (version 2)
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide data within JPG images using this steganography privacy tool. Post images on Mastodon and other hosting sites.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide data within JPG images using this steganography-like privacy tool. Post images on Mastodon and other hosting sites.
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [AleksaMCode/Preferred-Network-List-Sniffer](https://github.com/AleksaMCode/Preferred-Network-List-Sniffer) - A reconnaissance tool for capturing and displaying SSIDs from device's Preferred Network List.
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
@@ -870,7 +869,7 @@
 
 ## mastodon 
 
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide data within JPG images using this steganography privacy tool. Post images on Mastodon and other hosting sites.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide data within JPG images using this steganography-like privacy tool. Post images on Mastodon and other hosting sites.
 
 ## microsoft 
 
@@ -897,7 +896,7 @@
 
 ## monitoring 
 
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, a
 
 ## mysql 
@@ -919,7 +918,7 @@
 
 ## nextjs 
 
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination.
 - [diogocapela/flatdraw](https://github.com/diogocapela/flatdraw) - A simple canvas drawing web app with responsive UI. Made with TypeScript, React, and Next.js.
@@ -960,7 +959,7 @@
 
 ## open-source 
 
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
@@ -1367,7 +1366,7 @@
 
 ## privacy 
 
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide data within JPG images using this steganography privacy tool. Post images on Mastodon and other hosting sites.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide data within JPG images using this steganography-like privacy tool. Post images on Mastodon and other hosting sites.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1619,6 +1618,7 @@
 
 ## self-hosted 
 
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
