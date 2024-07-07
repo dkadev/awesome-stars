@@ -192,6 +192,7 @@
 ## api 
 
 - [erev0s/VAmPI](https://github.com/erev0s/VAmPI) - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
+- [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers that keeps privacy and ease of use in mind!
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform
 - [MrEmpy/mantra](https://github.com/MrEmpy/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
@@ -379,6 +380,7 @@
 ## css 
 
 - [sveltecult/franken-ui](https://github.com/sveltecult/franken-ui) - Franken UI is an HTML-first, open-source library of UI components that works as a standalone or as a Tailwind CSS plugin. It is compatible with UIkit 3. The design is influenced by shadcn/ui.
+- [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers that keeps privacy and ease of use in mind!
 - [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
@@ -978,6 +980,7 @@
 
 ## osint 
 
+- [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [wddadk/Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools) - OffSec OSINT Pentest/RedTeam Tools
 - [spyboy-productions/omnisci3nt](https://github.com/spyboy-productions/omnisci3nt) - Unveiling the Hidden Layers of the Web – A Comprehensive Web Reconnaissance Tool
 - [MetaOSINT/MetaOSINT.github.io](https://github.com/MetaOSINT/MetaOSINT.github.io) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.
@@ -1021,6 +1024,7 @@
 
 ## others 
 
+- [domain-protect/domain-protect-gcp](https://github.com/domain-protect/domain-protect-gcp) - Protect against subdomain takeover
 - [sosdave/KeyTabExtract](https://github.com/sosdave/KeyTabExtract) - Extracts Key Values from .keytab files
 - [RevoltSecurities/SubProber](https://github.com/RevoltSecurities/SubProber) - Subprober is a powerful and efficient subdomain scanning tool written in Python. With the ability to handle large lists of subdomains. The tool offers concurrent scanning, allowing users to define the
 - [kabutor/forenwindows](https://github.com/kabutor/forenwindows) - Decrypt offline windows passwords, chrome and firefox
@@ -1127,7 +1131,6 @@
 - [waf-bypass-maker/waf-community-bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses) - 
 - [Siguza/ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
 - [onhexgroup/Conferences](https://github.com/onhexgroup/Conferences) - Conference presentation slides
-- [adegans/Goosle](https://github.com/adegans/Goosle) - A Meta Search engine with privacy and ease of use in mind
 - [akamai/Invoke-DHCPCheckup](https://github.com/akamai/Invoke-DHCPCheckup) - 
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) - OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container ima
 - [candiddev/rot](https://github.com/candiddev/rot) - Secure Secrets Management for the Modern Sysadmin
@@ -1338,6 +1341,7 @@
 ## php 
 
 - [Cvar1984/sussyfinder](https://github.com/Cvar1984/sussyfinder) - Single PHP file to detect potentially malicious threats based on token and hash with web interface and VirusTotal integrations. Contact me for premium apps fully integrated with VirusTotal and 10+ mor
+- [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers that keeps privacy and ease of use in mind!
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
