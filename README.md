@@ -303,7 +303,7 @@
 ## PHP 
 
 - [Cvar1984/sussyfinder](https://github.com/Cvar1984/sussyfinder) - Single PHP file to detect potentially malicious threats based on token and hash with web interface and VirusTotal integrations. Contact me for premium apps fully integrated with VirusTotal and 10+ mor
-- [adegans/Goosle](https://github.com/adegans/Goosle) - A Meta Search engine with privacy and ease of use in mind
+- [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers that keeps privacy and ease of use in mind!
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [globocom/secDevLabs](https://github.com/globocom/secDevLabs) - A laboratory for learning secure web and mobile development in a practical manner.
 
@@ -339,6 +339,8 @@
 
 ## Python 
 
+- [domain-protect/domain-protect-gcp](https://github.com/domain-protect/domain-protect-gcp) - Protect against subdomain takeover
+- [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [sosdave/KeyTabExtract](https://github.com/sosdave/KeyTabExtract) - Extracts Key Values from .keytab files
 - [adeptex/whispers](https://github.com/adeptex/whispers) - Identify hardcoded secrets in static structured text (version 2)
 - [RevoltSecurities/SubProber](https://github.com/RevoltSecurities/SubProber) - Subprober is a powerful and efficient subdomain scanning tool written in Python. With the ability to handle large lists of subdomains. The tool offers concurrent scanning, allowing users to define the
