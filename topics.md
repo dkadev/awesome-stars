@@ -207,6 +207,7 @@
 
 ## automation 
 
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [securityjoes/MasterParser](https://github.com/securityjoes/MasterParser) - MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux logs
 - [dvcoolarun/web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
@@ -319,6 +320,7 @@
 
 ## cli 
 
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
@@ -593,6 +595,7 @@
 
 ## hacking 
 
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [adeptex/whispers](https://github.com/adeptex/whispers) - Identify hardcoded secrets in static structured text (version 2)
 - [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide data within JPG images using this steganography-like privacy tool. Post images on Mastodon and other hosting sites.
 - [FLOCK4H/Freeway](https://github.com/FLOCK4H/Freeway) - WiFi Penetration Testing & Auditing Tool
@@ -982,6 +985,7 @@
 
 ## osint 
 
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [powerexploit/Ashok](https://github.com/powerexploit/Ashok) - Ashok is a OSINT Recon Tool , a.k.a :heart_eyes:  Swiss Army knife .
 - [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [wddadk/Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools) - OffSec OSINT Pentest/RedTeam Tools
@@ -1283,6 +1287,7 @@
 
 ## pentesting 
 
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [wddadk/Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools) - OffSec OSINT Pentest/RedTeam Tools
 - [diego-treitos/linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) - Linux enumeration tool for pentesting and CTFs with verbosity levels
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research,
@@ -1393,6 +1398,7 @@
 
 ## python 
 
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [FLOCK4H/Freeway](https://github.com/FLOCK4H/Freeway) - WiFi Penetration Testing & Auditing Tool
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. 
 - [otsaloma/catapult](https://github.com/otsaloma/catapult) - App launcher for Linux
