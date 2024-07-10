@@ -19,6 +19,7 @@
 - [backend](#backend)
 - [bash](#bash)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -285,6 +286,38 @@
 ## bot 
 
 - [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for Ollama, ChatGPT and compatible API-backends
+
+## bugbounty 
+
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
+- [TupleType/awesome-cicd-attacks](https://github.com/TupleType/awesome-cicd-attacks) - Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.
+- [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator) - SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+- [chiasmod0n/chiasmodon](https://github.com/chiasmod0n/chiasmodon) - Chiasmodon is an OSINT  tool designed to assist in the process of gathering information about a target domain. Its primary functionality revolves around searching for domain-related data, including do
+- [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) - Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
+- [devploit/nomore403](https://github.com/devploit/nomore403) - Tool to bypass 403/40X response codes.
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
+- [justakazh/DockerExploit](https://github.com/justakazh/DockerExploit) - Docker Remote API Scanner and Exploit
+- [i5nipe/nipejs](https://github.com/i5nipe/nipejs) - Simplify your life with leak detection in JavaScript. NipeJS streamlines the use of regex, making it effortless to uncover potential leaks.
+- [trickest/inventory](https://github.com/trickest/inventory) - Asset inventory of over 800 public bug bounty programs.
+- [psbelin/ip_widget](https://github.com/psbelin/ip_widget) - Taskbar IP widget for kali linux (or any distro running XFCE)
+- [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [gotr00t0day/Gsec](https://github.com/gotr00t0day/Gsec) - Web Security Scanner
+- [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
+- [cosad3s/postleaks](https://github.com/cosad3s/postleaks) - Search for sensitive data in Postman public library.
+- [redhuntlabs/BucketLoot](https://github.com/redhuntlabs/BucketLoot) - BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exp
+- [Anof-cyber/ParaForge](https://github.com/Anof-cyber/ParaForge) - A BurpSuite extension to create a custom word-list of endpoint and parameters for enumeration and fuzzing
+- [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
+- [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
+- [pikpikcu/nodesub](https://github.com/pikpikcu/nodesub) - Nodesub is a command-line tool for finding subdomains in bug bounty programs
+- [iknowjason/edge](https://github.com/iknowjason/edge) - Recon tool for cloud provider attribution.  Supports AWS, Azure, Google, Cloudflare, and Digital Ocean.
+- [Zeus-Labs/ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud) - Open Source Cloud Security
+- [j3ssie/metabigor](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
+- [MrEmpy/mantra](https://github.com/MrEmpy/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
+- [RapidDNS/Afuzz](https://github.com/RapidDNS/Afuzz) - Afuzz is an automated web path fuzzing tool for the Bug Bounty projects.
 
 ## c 
 
@@ -1031,6 +1064,7 @@
 
 ## others 
 
+- [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer) - Abusing impersonation privileges through the "Printer Bug"
 - [domain-protect/domain-protect-gcp](https://github.com/domain-protect/domain-protect-gcp) - Protect against subdomain takeover
 - [sosdave/KeyTabExtract](https://github.com/sosdave/KeyTabExtract) - Extracts Key Values from .keytab files
 - [RevoltSecurities/SubProber](https://github.com/RevoltSecurities/SubProber) - Subprober is a powerful and efficient subdomain scanning tool written in Python. With the ability to handle large lists of subdomains. The tool offers concurrent scanning, allowing users to define the
@@ -1182,7 +1216,6 @@
 - [decoder-it/LocalPotato](https://github.com/decoder-it/LocalPotato) - 
 - [Orange-Cyberdefense/KeePwn](https://github.com/Orange-Cyberdefense/KeePwn) - A python tool to automate KeePass discovery and secret extraction.
 - [openappsec/waf-comparison-project](https://github.com/openappsec/waf-comparison-project) - Testing datasets and tools to compare WAF efficacy
-- [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
 - [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
 - [FuzzySecurity/Magikarp](https://github.com/FuzzySecurity/Magikarp) - ECC Public Key Cryptography
 - [ripp3rdoc/XAMPPv3.3.0-BOF](https://github.com/ripp3rdoc/XAMPPv3.3.0-BOF) - Exploit Proof-of-Concept code for XAMPP v3.3.0 — '.ini' Buffer Overflow (Unicode + SEH)
@@ -1217,7 +1250,6 @@
 - [optiv/KnockKnock](https://github.com/optiv/KnockKnock) - Enumerate valid users within Microsoft Teams and OneDrive with clean output.
 - [DataDog/HASH](https://github.com/DataDog/HASH) - HASH (HTTP Agnostic Software Honeypot)
 - [nccgroup/ccs](https://github.com/nccgroup/ccs) - 
-- [pikpikcu/nodesub](https://github.com/pikpikcu/nodesub) - Nodesub is a command-line tool for finding subdomains in bug bounty programs
 - [S12cybersecurity/RDPCredentialStealer](https://github.com/S12cybersecurity/RDPCredentialStealer) - RDPCredentialStealer it's a malware that steal credentials provided by users in RDP using API Hooking with Detours in C++
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [gitwonk/gitwonk](https://github.com/gitwonk/gitwonk) - The open source GitBook, Confluence, and Archbee alternative. Write technical docs like never before 🐙
