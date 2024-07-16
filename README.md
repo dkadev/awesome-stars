@@ -78,7 +78,7 @@
 
 - [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide data within JPG images using this steganography-like privacy tool. Post images on Mastodon and other hosting sites.
 - [AlteredSecurity/Disable-TamperProtection](https://github.com/AlteredSecurity/Disable-TamperProtection) - A POC to disable TamperProtection and other Defender / MDE components
-- [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies directly from Chrome process memory
+- [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
 - [Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - Little user-mode AV/EDR evasion lab for training & learning purposes
 - [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg) - Nidhogg is an all-in-one simple to use rootkit.
 - [decoder-it/LocalPotato](https://github.com/decoder-it/LocalPotato) - 
