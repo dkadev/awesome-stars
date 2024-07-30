@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 - [ANDRVV/gapcast](https://github.com/ANDRVV/gapcast) - 📡 802.11 broadcast analyzer & injector
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your websites from attacks and exploits.
 - [MultSec/MultCheck](https://github.com/MultSec/MultCheck) - Identifies bad bytes from static analysis with any Anti-Virus scanner.
@@ -324,6 +325,7 @@
 - [Leo4j/Amnesiac](https://github.com/Leo4j/Amnesiac) - Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments
 - [troennes/private-secure-windows](https://github.com/troennes/private-secure-windows) - Privacy and security baseline for personal Windows 10 and Windows 11
 - [gustanini/PowerTools](https://github.com/gustanini/PowerTools) - Powershell tools used for Red Team / Pentesting.
+- [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [0xDEADFED5/ps_tiny11](https://github.com/0xDEADFED5/ps_tiny11) - This script creates a trimmed-down Windows 11 image, based on tiny11builder
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
@@ -338,6 +340,7 @@
 
 ## Python 
 
+- [aydinnyunus/gpt4-captcha-bypass](https://github.com/aydinnyunus/gpt4-captcha-bypass) - Captcha Bypass using GPT4-o
 - [lawndoc/Respotter](https://github.com/lawndoc/Respotter) - Respotter is a Responder honeypot! Catch attackers and red teams as soon as they spin up Responder in your environment.
 - [efeali/fragtunnel](https://github.com/efeali/fragtunnel) - Fragtunnel is a proof-of-concept (PoC) TCP tunnel tool that you can use to tunnel your application's traffic and bypass next-generation firewalls en route to the target.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -461,7 +464,6 @@
 - [carlospolop/Auto_Wordlists](https://github.com/carlospolop/Auto_Wordlists) - 
 - [thomasjjj/Telegram_Geolocation_Scraper](https://github.com/thomasjjj/Telegram_Geolocation_Scraper) - Load a JSON export of a Telegram channel containing coordinates of geolocations and filter into a csv for loading into Google Earth.
 - [spark1security/n0s1](https://github.com/spark1security/n0s1) - Secret Scanner for Slack, Jira, Confluence, Asana, Wrike and Linear
-- [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [ramykatour/GitBook-Downloader-To-HTML-Converter](https://github.com/ramykatour/GitBook-Downloader-To-HTML-Converter) - GitBook Downloader To HTML Converter
 - [pentagridsec/archive_pwn](https://github.com/pentagridsec/archive_pwn) - A Python-based tool to create zip, tar and cpio archives to exploit common archive library issues and developer mistakes
