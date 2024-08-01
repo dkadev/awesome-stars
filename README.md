@@ -118,7 +118,7 @@
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [jhaddix/awsScrape](https://github.com/jhaddix/awsScrape) - A tool to scrape the AWS ranges looking for a keyword in SSL certificate data.
 - [i5nipe/nipejs](https://github.com/i5nipe/nipejs) - Simplify your life with leak detection in JavaScript. NipeJS streamlines the use of regex, making it effortless to uncover potential leaks.
-- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: An LLM-powered web honeypot. Wasting attackers' time with faker-than-ever HTTP responses!
+- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: An LLM-powered web honeypot.
 - [BishopFox/sj](https://github.com/BishopFox/sj) - A tool for auditing endpoints defined in exposed (Swagger/OpenAPI) definition files.
 - [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
@@ -341,7 +341,7 @@
 ## Python 
 
 - [aydinnyunus/gpt4-captcha-bypass](https://github.com/aydinnyunus/gpt4-captcha-bypass) - Captcha Bypass using GPT4-o
-- [lawndoc/Respotter](https://github.com/lawndoc/Respotter) - Respotter is a Responder honeypot! Catch attackers and red teams as soon as they spin up Responder in your environment.
+- [lawndoc/Respotter](https://github.com/lawndoc/Respotter) - Respotter is a Responder honeypot! Catch attackers as soon as they spin up Responder in your environment.
 - [efeali/fragtunnel](https://github.com/efeali/fragtunnel) - Fragtunnel is a proof-of-concept (PoC) TCP tunnel tool that you can use to tunnel your application's traffic and bypass next-generation firewalls en route to the target.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [LucasFaudman/apkscan](https://github.com/LucasFaudman/apkscan) - Scan for secrets, endpoints, and other sensitive data after decompiling and deobfuscating Android files. (.apk, .xapk, .dex, .jar, .class, .smali, .zip, .aar, .arsc, .aab, .jadx.kts).
@@ -636,7 +636,7 @@
 
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous software engineer right in your IDE, capable of reading/writing files, executing commands, and more with your permission every step of the way.
+- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous software engineer right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
