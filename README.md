@@ -95,6 +95,10 @@
 
 ## Go 
 
+- [wikiZ/RedGuard](https://github.com/wikiZ/RedGuard) - RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.
+- [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks
+- [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song matching algorithm.
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
 - [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 - [ANDRVV/gapcast](https://github.com/ANDRVV/gapcast) - 📡 802.11 broadcast analyzer & injector
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
@@ -531,7 +535,7 @@
 - [PhoenixC2/PhoenixC2](https://github.com/PhoenixC2/PhoenixC2) - Command & Control-Framework created for collaboration in python3
 - [jakecreps/poastal](https://github.com/jakecreps/poastal) - Poastal - the Email OSINT tool
 - [dievus/msLDAPDump](https://github.com/dievus/msLDAPDump) - LDAP enumeration tool implemented in Python3
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - OG CLI codegen project. Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
