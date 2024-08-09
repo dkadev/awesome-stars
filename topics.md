@@ -185,6 +185,7 @@
 - [LucasFaudman/apkscan](https://github.com/LucasFaudman/apkscan) - Scan for secrets, endpoints, and other sensitive data after decompiling and deobfuscating Android files. (.apk, .xapk, .dex, .jar, .class, .smali, .zip, .aar, .arsc, .aab, .jadx.kts).
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+- [amrudesh1/morf](https://github.com/amrudesh1/morf) - Mobile Reconnaissance Framework is a powerful, lightweight and platform-independent offensive mobile security tool designed to help hackers and developers identify and address sensitive information wi
 - [oppsec/Apepe](https://github.com/oppsec/Apepe) - 📲 Enumerate information from an app based on the APK file
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 
@@ -1253,7 +1254,6 @@
 - [Orange-Cyberdefense/LinikatzV2](https://github.com/Orange-Cyberdefense/LinikatzV2) - linikatz is a tool to attack AD on UNIX
 - [nsacyber/ELITEWOLF](https://github.com/nsacyber/ELITEWOLF) - OT security monitoring #nsacyber
 - [govolution/avet](https://github.com/govolution/avet) - AntiVirus Evasion Tool
-- [amrudesh1/MORF](https://github.com/amrudesh1/MORF) - Mobile Reconnaissance Framework
 - [tenable/EscalateGPT](https://github.com/tenable/EscalateGPT) - An AI-powered tool for discovering privilege escalation opportunities in AWS IAM configurations.
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - A full stack web application that combines many tools and services for security analysts into a single tool.
 - [Dec0ne/DavRelayUp](https://github.com/Dec0ne/DavRelayUp) - DavRelayUp - a universal no-fix local privilege escalation in domain-joined windows workstations where LDAP signing is not enforced (the default settings).
