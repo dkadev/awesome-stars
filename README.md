@@ -142,7 +142,7 @@
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [redhuntlabs/BucketLoot](https://github.com/redhuntlabs/BucketLoot) - BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exp
-- [amrudesh1/MORF](https://github.com/amrudesh1/MORF) - Mobile Reconnaissance Framework
+- [amrudesh1/morf](https://github.com/amrudesh1/morf) - Mobile Reconnaissance Framework is a powerful, lightweight and platform-independent offensive mobile security tool designed to help hackers and developers identify and address sensitive information wi
 - [FourCoreLabs/LolDriverScan](https://github.com/FourCoreLabs/LolDriverScan) - Scan vulnerable drivers on Windows with loldrivers.io
 - [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Tool for building Kubernetes attack paths
 - [D00Movenok/BounceBack](https://github.com/D00Movenok/BounceBack) - ↕️🤫 Stealth redirector for your red team operation security
