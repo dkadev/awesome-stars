@@ -344,6 +344,7 @@
 
 ## Python 
 
+- [mbrg/power-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
 - [aydinnyunus/gpt4-captcha-bypass](https://github.com/aydinnyunus/gpt4-captcha-bypass) - Captcha Bypass using GPT4-o
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 - [lawndoc/Respotter](https://github.com/lawndoc/Respotter) - Respotter is a Responder honeypot! Catch attackers as soon as they spin up Responder in your environment.
@@ -639,6 +640,7 @@
 
 ## TypeScript 
 
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous software engineer right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
