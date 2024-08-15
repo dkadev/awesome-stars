@@ -255,6 +255,7 @@
 
 ## Others 
 
+- [insidetrust/statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames) - Wordlists for creating statistically likely username lists for use in password attacks and security testing
 - [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks.
 - [An0nUD4Y/Evilginx-Phishing-Infra-Setup](https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup) - Evilginx Phishing Engagement Infrastructure Setup Guide
 - [TupleType/awesome-cicd-attacks](https://github.com/TupleType/awesome-cicd-attacks) - Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.
@@ -313,11 +314,13 @@
 
 ## Perl 
 
+- [CiscoCXSecurity/enum4linux](https://github.com/CiscoCXSecurity/enum4linux) - enum4Linux is a Linux alternative to enum.exe for enumerating data from Windows and Samba hosts
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [dolmen/github-keygen](https://github.com/dolmen/github-keygen) - Easy creation of secure SSH configuration for your GitHub account(s)
 
 ## PowerShell 
 
+- [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFU
 - [Diverto/IPPrintC2](https://github.com/Diverto/IPPrintC2) - PoC for using MS Windows printers for persistence / command and control via Internet Printing
 - [tylerdotrar/Unfuck-Windows10](https://github.com/tylerdotrar/Unfuck-Windows10) - Script meant to debloat Windows 10, enhance privacy, and improve performance & the overall user experience.
 - [Leo4j/Invoke-SessionHunter](https://github.com/Leo4j/Invoke-SessionHunter) - Retrieve and display information about active user sessions on remote computers. No admin privileges required.
@@ -344,6 +347,7 @@
 
 ## Python 
 
+- [initstring/linkedin2username](https://github.com/initstring/linkedin2username) - OSINT Tool: Generate username lists for companies on LinkedIn
 - [mbrg/power-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
 - [aydinnyunus/gpt4-captcha-bypass](https://github.com/aydinnyunus/gpt4-captcha-bypass) - Captcha Bypass using GPT4-o
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
@@ -589,6 +593,7 @@
 
 ## Shell 
 
+- [Aegrah/PANIX](https://github.com/Aegrah/PANIX) - Customizable Linux Persistence Tool for Security Research and Detection Engineering.
 - [diego-treitos/linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) - Linux enumeration tool for pentesting and CTFs with verbosity levels
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research,
 - [0xKayala/NucleiScanner](https://github.com/0xKayala/NucleiScanner) - NucleiScanner is a Powerful Automation tool for detecting Unknown Vulnerabilities in the Web Applications
