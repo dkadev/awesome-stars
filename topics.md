@@ -207,7 +207,7 @@
 ## artificial-intelligence 
 
 - [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [taranis-ai/taranis-ai](https://github.com/taranis-ai/taranis-ai) - Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -895,7 +895,7 @@
 - [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for Ollama, ChatGPT and compatible API-backends
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [dhammon/ai-goat](https://github.com/dhammon/ai-goat) - Learn AI security through a series of vulnerable LLM CTF challenges. No sign ups, no cloud fees, run everything locally on your system.
 - [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: An LLM-powered web honeypot.
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
@@ -1484,6 +1484,7 @@
 
 ## python 
 
+- [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass) - Check your WAF before an attacker does
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [FLOCK4H/Freeway](https://github.com/FLOCK4H/Freeway) - WiFi Penetration Testing & Auditing Tool
@@ -1536,6 +1537,7 @@
 
 ## python3 
 
+- [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass) - Check your WAF before an attacker does
 - [JoelGMSec/LeakSearch](https://github.com/JoelGMSec/LeakSearch) - Search & Parse Password Leaks
 - [HalilDeniz/NetProbe](https://github.com/HalilDeniz/NetProbe) - NetProbe: Network Probe
 - [HalilDeniz/PacketSpy](https://github.com/HalilDeniz/PacketSpy) - PacketSpy
