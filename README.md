@@ -577,6 +577,7 @@
 
 ## Rust 
 
+- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
