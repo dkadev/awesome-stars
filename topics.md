@@ -1105,6 +1105,12 @@
 
 ## others 
 
+- [vxCrypt0r/AMSI_VEH](https://github.com/vxCrypt0r/AMSI_VEH) - A Powershell AMSI Bypass technique via Vectored Exception Handler (VEH). This technique does not perform assembly instruction patching, function hooking or Import Address Table (IAT) modification.
+- [Cyxow/CVE-2024-3183-POC](https://github.com/Cyxow/CVE-2024-3183-POC) - POC for CVE-2024-3183 (FreeIPA Rosting)
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
+- [psiinon/open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners) - A list of open source web security scanners
+- [EgeBalci/sgn](https://github.com/EgeBalci/sgn) - Shikata ga nai (仕方がない) encoder ported into go with several improvements
+- [nullenc0de/gofuzz](https://github.com/nullenc0de/gofuzz) - 
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [activecm/rita](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [CiscoCXSecurity/enum4linux](https://github.com/CiscoCXSecurity/enum4linux) - enum4Linux is a Linux alternative to enum.exe for enumerating data from Windows and Samba hosts
@@ -1288,7 +1294,7 @@
 - [Dec0ne/DavRelayUp](https://github.com/Dec0ne/DavRelayUp) - DavRelayUp - a universal no-fix local privilege escalation in domain-joined windows workstations where LDAP signing is not enforced (the default settings).
 - [synacktiv/GPOddity](https://github.com/synacktiv/GPOddity) - The GPOddity project, aiming at automating GPO attack vectors through NTLM relaying (and more).
 - [FourCoreLabs/LolDriverScan](https://github.com/FourCoreLabs/LolDriverScan) - Scan vulnerable drivers on Windows with loldrivers.io
-- [invictus-ir/Invictus-AWS](https://github.com/invictus-ir/Invictus-AWS) - 
+- [invictus-ir/Invictus-AWS](https://github.com/invictus-ir/Invictus-AWS) - A tool for AWS incident response, that allows for enumeration, acquisition and analysis of data from AWS environments for the purpose of incident response.
 - [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel
 - [p0dalirius/ExtractBitlockerKeys](https://github.com/p0dalirius/ExtractBitlockerKeys) - A system administration or post-exploitation script to automatically extract the bitlocker recovery keys from a domain.
 - [eversinc33/CredGuess](https://github.com/eversinc33/CredGuess) - Generate password spraying lists based on the pwdLastSet-attribute of users.
