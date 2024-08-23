@@ -78,6 +78,7 @@
 
 ## C++ 
 
+- [vxCrypt0r/AMSI_VEH](https://github.com/vxCrypt0r/AMSI_VEH) - A Powershell AMSI Bypass technique via Vectored Exception Handler (VEH). This technique does not perform assembly instruction patching, function hooking or Import Address Table (IAT) modification.
 - [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide images and other file types within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, Reddit and other hosting sites.
 - [AlteredSecurity/Disable-TamperProtection](https://github.com/AlteredSecurity/Disable-TamperProtection) - A POC to disable TamperProtection and other Defender / MDE components
 - [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
@@ -95,6 +96,7 @@
 
 ## Go 
 
+- [EgeBalci/sgn](https://github.com/EgeBalci/sgn) - Shikata ga nai (仕方がない) encoder ported into go with several improvements
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [activecm/rita](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [wikiZ/RedGuard](https://github.com/wikiZ/RedGuard) - RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.
@@ -258,6 +260,7 @@
 
 ## Others 
 
+- [psiinon/open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners) - A list of open source web security scanners
 - [insidetrust/statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames) - Wordlists for creating statistically likely username lists for use in password attacks and security testing
 - [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks.
 - [An0nUD4Y/Evilginx-Phishing-Infra-Setup](https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup) - Evilginx Phishing Engagement Infrastructure Setup Guide
@@ -349,6 +352,8 @@
 
 ## Python 
 
+- [Cyxow/CVE-2024-3183-POC](https://github.com/Cyxow/CVE-2024-3183-POC) - POC for CVE-2024-3183 (FreeIPA Rosting)
+- [nullenc0de/gofuzz](https://github.com/nullenc0de/gofuzz) - 
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass) - Check your WAF before an attacker does
 - [initstring/linkedin2username](https://github.com/initstring/linkedin2username) - OSINT Tool: Generate username lists for companies on LinkedIn
@@ -510,7 +515,7 @@
 - [tenable/EscalateGPT](https://github.com/tenable/EscalateGPT) - An AI-powered tool for discovering privilege escalation opportunities in AWS IAM configurations.
 - [synacktiv/GPOddity](https://github.com/synacktiv/GPOddity) - The GPOddity project, aiming at automating GPO attack vectors through NTLM relaying (and more).
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
-- [invictus-ir/Invictus-AWS](https://github.com/invictus-ir/Invictus-AWS) - 
+- [invictus-ir/Invictus-AWS](https://github.com/invictus-ir/Invictus-AWS) - A tool for AWS incident response, that allows for enumeration, acquisition and analysis of data from AWS environments for the purpose of incident response.
 - [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel
 - [p0dalirius/ExtractBitlockerKeys](https://github.com/p0dalirius/ExtractBitlockerKeys) - A system administration or post-exploitation script to automatically extract the bitlocker recovery keys from a domain.
 - [eversinc33/CredGuess](https://github.com/eversinc33/CredGuess) - Generate password spraying lists based on the pwdLastSet-attribute of users.
@@ -578,6 +583,7 @@
 
 ## Rust 
 
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
