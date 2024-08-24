@@ -96,6 +96,7 @@
 
 ## Go 
 
+- [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [EgeBalci/sgn](https://github.com/EgeBalci/sgn) - Shikata ga nai (仕方がない) encoder ported into go with several improvements
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [activecm/rita](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
@@ -197,6 +198,7 @@
 
 ## Java 
 
+- [Mixeway/Flow](https://github.com/Mixeway/Flow) - Repository containing source code of MixewayFlow service that is Swiss army knife for DevSecOps Teams
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [d0ge/sign-saboteur](https://github.com/d0ge/sign-saboteur) - SignSaboteur is a Burp Suite extension for editing, signing, verifying various signed web tokens
 - [Hakky54/certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 🔐 A CLI tool to extract server certificates
@@ -352,6 +354,7 @@
 
 ## Python 
 
+- [DataDog/guarddog](https://github.com/DataDog/guarddog) - :snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages
 - [Cyxow/CVE-2024-3183-POC](https://github.com/Cyxow/CVE-2024-3183-POC) - POC for CVE-2024-3183 (FreeIPA Rosting)
 - [nullenc0de/gofuzz](https://github.com/nullenc0de/gofuzz) - 
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
