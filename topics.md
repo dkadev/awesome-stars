@@ -223,6 +223,7 @@
 
 ## awesome 
 
+- [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
 - [TupleType/awesome-cicd-attacks](https://github.com/TupleType/awesome-cicd-attacks) - Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research,
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -241,6 +242,7 @@
 
 ## awesome-list 
 
+- [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
 - [TupleType/awesome-cicd-attacks](https://github.com/TupleType/awesome-cicd-attacks) - Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.
 - [wddadk/Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools) - OffSec OSINT Pentest/RedTeam Tools
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research,
@@ -361,6 +363,7 @@
 
 ## cli 
 
+- [EwenQuim/entropy](https://github.com/EwenQuim/entropy) - Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -431,6 +434,7 @@
 
 ## cybersecurity 
 
+- [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) - Automation to assess the state of your M365 tenant against CISA's baselines
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 - [TupleType/awesome-cicd-attacks](https://github.com/TupleType/awesome-cicd-attacks) - Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.
@@ -606,6 +610,7 @@
 
 ## go 
 
+- [EwenQuim/entropy](https://github.com/EwenQuim/entropy) - Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song matching algorithm.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
@@ -645,6 +650,7 @@
 
 ## hacking 
 
+- [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [initstring/linkedin2username](https://github.com/initstring/linkedin2username) - OSINT Tool: Generate username lists for companies on LinkedIn
 - [mbrg/power-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
@@ -802,6 +808,7 @@
 
 ## iot 
 
+- [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
 - [AleksaMCode/Preferred-Network-List-Sniffer](https://github.com/AleksaMCode/Preferred-Network-List-Sniffer) - A reconnaissance tool for capturing and displaying SSIDs from device's Preferred Network List.
 
 ## java 
@@ -1038,6 +1045,7 @@
 
 ## open-source 
 
+- [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) - Automation to assess the state of your M365 tenant against CISA's baselines
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table with server-side sorting, filtering, and pagination.
@@ -1107,6 +1115,7 @@
 
 ## others 
 
+- [dovecoteescapee/ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid) - App to bypass censorship on Android
 - [ajilach/clamav-rest](https://github.com/ajilach/clamav-rest) - ClamAV virus/malware scanner with REST API
 - [vxCrypt0r/AMSI_VEH](https://github.com/vxCrypt0r/AMSI_VEH) - A Powershell AMSI Bypass technique via Vectored Exception Handler (VEH). This technique does not perform assembly instruction patching, function hooking or Import Address Table (IAT) modification.
 - [Cyxow/CVE-2024-3183-POC](https://github.com/Cyxow/CVE-2024-3183-POC) - POC for CVE-2024-3183 (FreeIPA Rosting)
@@ -1349,6 +1358,7 @@
 
 ## penetration-testing 
 
+- [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
 - [initstring/linkedin2username](https://github.com/initstring/linkedin2username) - OSINT Tool: Generate username lists for companies on LinkedIn
 - [LucasFaudman/apkscan](https://github.com/LucasFaudman/apkscan) - Scan for secrets, endpoints, and other sensitive data after decompiling and deobfuscating Android files. (.apk, .xapk, .dex, .jar, .class, .smali, .zip, .aar, .arsc, .aab, .jadx.kts).
 - [powerexploit/Ashok](https://github.com/powerexploit/Ashok) - Ashok is a OSINT Recon Tool , a.k.a :heart_eyes:  Swiss Army knife .
@@ -1465,6 +1475,7 @@
 
 ## powershell 
 
+- [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) - Automation to assess the state of your M365 tenant against CISA's baselines
 - [securityjoes/MasterParser](https://github.com/securityjoes/MasterParser) - MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux logs
 - [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [nickvourd/Windows-Local-Privilege-Escalation-Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook) - Windows Local Privilege Escalation Cookbook
@@ -1635,6 +1646,8 @@
 
 ## security 
 
+- [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) - Automation to assess the state of your M365 tenant against CISA's baselines
+- [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
 - [Mixeway/Flow](https://github.com/Mixeway/Flow) - Repository containing source code of MixewayFlow service that is Swiss army knife for DevSecOps Teams
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [ANDRVV/gapcast](https://github.com/ANDRVV/gapcast) - 📡 802.11 broadcast analyzer & injector
