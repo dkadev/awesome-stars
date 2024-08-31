@@ -98,6 +98,7 @@
 
 ## Go 
 
+- [hotnops/apeman](https://github.com/hotnops/apeman) - AWS Attack Path Management Tool - Walking on the Moon
 - [EwenQuim/entropy](https://github.com/EwenQuim/entropy) - Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.
 - [ajilach/clamav-rest](https://github.com/ajilach/clamav-rest) - ClamAV virus/malware scanner with REST API
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
@@ -210,6 +211,7 @@
 
 ## JavaScript 
 
+- [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) - JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. Also includes a C2 for executing custom JavaScr
 - [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
@@ -368,6 +370,10 @@
 
 ## Python 
 
+- [WithSecureLabs/IAMSpy](https://github.com/WithSecureLabs/IAMSpy) - 
+- [welldone-cloud/aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) - 
+- [duo-labs/parliament](https://github.com/duo-labs/parliament) - AWS IAM linting library
+- [nccgroup/PMapper](https://github.com/nccgroup/PMapper) - A tool for quickly evaluating IAM permissions in AWS.
 - [DataDog/guarddog](https://github.com/DataDog/guarddog) - :snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages
 - [Cyxow/CVE-2024-3183-POC](https://github.com/Cyxow/CVE-2024-3183-POC) - POC for CVE-2024-3183 (FreeIPA Rosting)
 - [nullenc0de/gofuzz](https://github.com/nullenc0de/gofuzz) - 
