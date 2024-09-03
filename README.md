@@ -370,6 +370,7 @@
 
 ## Python 
 
+- [jasonxtn/Kraken](https://github.com/jasonxtn/Kraken) - All-in-One Toolkit for BruteForce Attacks
 - [WithSecureLabs/IAMSpy](https://github.com/WithSecureLabs/IAMSpy) - 
 - [welldone-cloud/aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) - 
 - [duo-labs/parliament](https://github.com/duo-labs/parliament) - AWS IAM linting library
