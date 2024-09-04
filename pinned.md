@@ -16,21 +16,8 @@ Methodology:
 
 ## Contents
 
----
-### Development
-
-- [Software Development](#software-development)
-- [Frontend](#frontend)
-- [Backend](#backend)
-#### Software Development
-
-#### Frontend
-
-#### Backend
-- [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
-- 
----
 ### Security
+---
 
 - [Penetration Testing](#pentesting)
 - [Red Team](#red-team)
@@ -40,9 +27,9 @@ Methodology:
 - [Forensics](#forensics)
 - [Malware Analysis](#malware-analysis)
 
-#### Penetration Testing
-
+#### Pentesting
 - [rbsec/sslscan](https://github.com/rbsec/sslscan) - sslscan tests SSL/TLS enabled services to discover supported cipher suites
+
 #### Red Team
 
 #### Blue Team
@@ -50,15 +37,24 @@ Methodology:
 #### Threat Intelligence
 
 #### OSINT
-- [3nock/OTE](https://github.com/3nock/OTE) - OSINT Template Engine
+
 #### Forensics
 - [libimobiledevice/ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) - Manage apps of iOS devices
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-- 
+ 
 #### Malware Analysis
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 
+### AI
 ---
 
-## AI
+### Development
+---
+
+#### Frontend
+
+#### Backend
+
+#### DevOps
+- [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 
