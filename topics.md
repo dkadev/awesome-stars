@@ -314,7 +314,6 @@
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [justakazh/DockerExploit](https://github.com/justakazh/DockerExploit) - Docker Remote API Scanner and Exploit
 - [i5nipe/nipejs](https://github.com/i5nipe/nipejs) - Simplify your life with leak detection in JavaScript. NipeJS streamlines the use of regex, making it effortless to uncover potential leaks.
-- [trickest/inventory](https://github.com/trickest/inventory) - Asset inventory of over 800 public bug bounty programs.
 - [psbelin/ip_widget](https://github.com/psbelin/ip_widget) - Taskbar IP widget for kali linux (or any distro running XFCE)
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -683,7 +682,6 @@
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [AleksaMCode/Preferred-Network-List-Sniffer](https://github.com/AleksaMCode/Preferred-Network-List-Sniffer) - A reconnaissance tool for capturing and displaying SSIDs from device's Preferred Network List.
-- [trickest/inventory](https://github.com/trickest/inventory) - Asset inventory of over 800 public bug bounty programs.
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) - Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [rootcathacking/catspin](https://github.com/rootcathacking/catspin) - Catspin rotates the IP address of HTTP requests making IP based blocks or slowdown measures ineffective. It is based on AWS API Gateway and deployed via AWS Cloudformation.
@@ -1098,7 +1096,6 @@
 - [taranis-ai/taranis-ai](https://github.com/taranis-ai/taranis-ai) - Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.
 - [N0rz3/Phunter](https://github.com/N0rz3/Phunter) - Phunter is an osint tool allowing you to find various information via a phone number 🔎📞
 - [mitchmoser/sputnik](https://github.com/mitchmoser/sputnik) - Open Source Intelligence Browser Extension
-- [trickest/inventory](https://github.com/trickest/inventory) - Asset inventory of over 800 public bug bounty programs.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [devXprite/infoooze](https://github.com/devXprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
 - [SherlockLinux/SherlockLinux](https://github.com/SherlockLinux/SherlockLinux) - Distribución para OSINT basada en Debian 12 / OSINT Distribution based in Debian 12
@@ -1387,7 +1384,6 @@
 - [ByteSnipers/awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
 - [fkkarakurt/reconic](https://github.com/fkkarakurt/reconic) - A Powerful Network Reconnaissance Tool for Security Professionals
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
-- [trickest/inventory](https://github.com/trickest/inventory) - Asset inventory of over 800 public bug bounty programs.
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [factionsecurity/faction](https://github.com/factionsecurity/faction) - Pen Test Report Generation and Assessment Collaboration
@@ -1432,7 +1428,6 @@
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [i5nipe/nipejs](https://github.com/i5nipe/nipejs) - Simplify your life with leak detection in JavaScript. NipeJS streamlines the use of regex, making it effortless to uncover potential leaks.
-- [trickest/inventory](https://github.com/trickest/inventory) - Asset inventory of over 800 public bug bounty programs.
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) - Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
 - [casterbyte/MITMonster](https://github.com/casterbyte/MITMonster) - A monster cheatsheet on MITM attacks
 - [emrekybs/AD-AssessmentKit](https://github.com/emrekybs/AD-AssessmentKit) - Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, 
@@ -1696,7 +1691,6 @@
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [gbiagomba/Sherlock](https://github.com/gbiagomba/Sherlock) - This script is designed to help expedite a web application assessment by automating some of the assessment steps (e.g., running nmap, sublist3r, metasploit, etc.)
 - [AleksaMCode/Preferred-Network-List-Sniffer](https://github.com/AleksaMCode/Preferred-Network-List-Sniffer) - A reconnaissance tool for capturing and displaying SSIDs from device's Preferred Network List.
-- [trickest/inventory](https://github.com/trickest/inventory) - Asset inventory of over 800 public bug bounty programs.
 - [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: An LLM-powered web honeypot.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) - Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
