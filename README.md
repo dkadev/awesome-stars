@@ -133,7 +133,7 @@
 - [BishopFox/sj](https://github.com/BishopFox/sj) - A tool for auditing endpoints defined in exposed (Swagger/OpenAPI) definition files.
 - [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
-- [adaptive-scale/dbchaos](https://github.com/adaptive-scale/dbchaos) - Stress-test your database with pre-defined queries. Generate synthetic data and events statically or with GPT.
+- [adaptive-scale/dbchaos](https://github.com/adaptive-scale/dbchaos) - Stress-test your database with pre-defined queries
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes
 - [lkarlslund/ldapnomnom](https://github.com/lkarlslund/ldapnomnom) - Quietly and anonymously bruteforce Active Directory usernames at insane speeds from Domain Controllers by (ab)using LDAP Ping requests (cLDAP)
@@ -159,7 +159,6 @@
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained authorization for customer applications
-- [magisterquis/chromecookiestealer](https://github.com/magisterquis/chromecookiestealer) - Steal/Inject Chrome cookies over the DevTools (--remote-debugging-port) protocol.
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [iknowjason/edge](https://github.com/iknowjason/edge) - Recon tool for cloud provider attribution.  Supports AWS, Azure, Google, Cloudflare, and Digital Ocean.
 - [nodauf/Girsh](https://github.com/nodauf/Girsh) - Automatically spawn a reverse shell fully interactive for Linux or Windows victim
@@ -306,7 +305,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [drak3hft7/Cheat-Sheet---Active-Directory](https://github.com/drak3hft7/Cheat-Sheet---Active-Directory) - This cheat sheet contains common enumeration and attack methods for Windows Active Directory with the use of powershell.
 - [samuel-lucas6/Cryptography-Guidelines](https://github.com/samuel-lucas6/Cryptography-Guidelines) - Guidance on implementing cryptography as a developer.
-- [LucasPDiniz/403-Bypass](https://github.com/LucasPDiniz/403-Bypass) - Bypass 403 pages
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -358,7 +356,6 @@
 
 ## Python 
 
-- [jasonxtn/Kraken](https://github.com/jasonxtn/Kraken) - All-in-One Toolkit for BruteForce Attacks
 - [WithSecureLabs/IAMSpy](https://github.com/WithSecureLabs/IAMSpy) - 
 - [welldone-cloud/aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) - 
 - [duo-labs/parliament](https://github.com/duo-labs/parliament) - AWS IAM linting library
@@ -486,12 +483,10 @@
 - [bellingcat/wayback-google-analytics](https://github.com/bellingcat/wayback-google-analytics) - A lightweight tool for scraping current and historic Google Analytics data
 - [m8sec/CrossLinked](https://github.com/m8sec/CrossLinked) - LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
 - [Josue87/MetaFinder](https://github.com/Josue87/MetaFinder) - Search for documents in a domain through Search Engines (Google, Bing and Baidu). The objective is to extract metadata
-- [andresriancho/w3af](https://github.com/andresriancho/w3af) - w3af: web application attack and audit framework, the open source web vulnerability scanner.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [Alb-310/Geogramint](https://github.com/Alb-310/Geogramint) - An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
 - [assume-breach/Home-Grown-Red-Team](https://github.com/assume-breach/Home-Grown-Red-Team) - 
 - [YasserREED/NoBlindi](https://github.com/YasserREED/NoBlindi) - NoBlindi is a command-line tool for exploiting blind NoSQL injection vulnerabilities to recover passwords in web applications.
-- [carlospolop/Auto_Wordlists](https://github.com/carlospolop/Auto_Wordlists) - 
 - [thomasjjj/Telegram_Geolocation_Scraper](https://github.com/thomasjjj/Telegram_Geolocation_Scraper) - Load a JSON export of a Telegram channel containing coordinates of geolocations and filter into a csv for loading into Google Earth.
 - [spark1security/n0s1](https://github.com/spark1security/n0s1) - Secret Scanner for Slack, Jira, Confluence, Asana, Wrike and Linear
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
@@ -560,12 +555,11 @@
 - [PhoenixC2/PhoenixC2](https://github.com/PhoenixC2/PhoenixC2) - Command & Control-Framework created for collaboration in python3
 - [jakecreps/poastal](https://github.com/jakecreps/poastal) - Poastal - the Email OSINT tool
 - [dievus/msLDAPDump](https://github.com/dievus/msLDAPDump) - LDAP enumeration tool implemented in Python3
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor) - Fully customisable, offensive security reporting solution designed for pentesters, red teamers and other security-related people alike.
-- [RapidDNS/Afuzz](https://github.com/RapidDNS/Afuzz) - Afuzz is an automated web path fuzzing tool for the Bug Bounty projects.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 - [vulnersCom/getsploit](https://github.com/vulnersCom/getsploit) - Command line utility for searching and downloading exploits
@@ -626,6 +620,7 @@
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [gbiagomba/Sherlock](https://github.com/gbiagomba/Sherlock) - This script is designed to help expedite a web application assessment by automating some of the assessment steps (e.g., running nmap, sublist3r, metasploit, etc.)
+- [trickest/inventory](https://github.com/trickest/inventory) - Asset inventory of over 800 public bug bounty programs.
 - [vm32/Digital-Forensics-Script-for-Linux](https://github.com/vm32/Digital-Forensics-Script-for-Linux) - Advanced Bash script designed for conducting digital forensics on Linux systems
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
 - [emrekybs/AD-AssessmentKit](https://github.com/emrekybs/AD-AssessmentKit) - Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, 
@@ -695,7 +690,6 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [Zeus-Labs/ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud) - Open Source Cloud Security
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform
