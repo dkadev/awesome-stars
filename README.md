@@ -53,7 +53,6 @@
 - [huntandhackett/PassiveAggression](https://github.com/huntandhackett/PassiveAggression) - Source code and examples for PassiveAggression
 - [mlcsec/SharpGraphView](https://github.com/mlcsec/SharpGraphView) - Microsoft Graph API post-exploitation toolkit
 - [HernanRodriguez1/SharpBruteForceSSH](https://github.com/HernanRodriguez1/SharpBruteForceSSH) - 
-- [Syslifters/offsec-tools](https://github.com/Syslifters/offsec-tools) - Compiled tools for internal assessments
 - [surajpkhetani/AutoSmuggle](https://github.com/surajpkhetani/AutoSmuggle) - Utility to craft HTML or SVG smuggled files for Red Team engagements
 - [Kevin-Robertson/Inveigh](https://github.com/Kevin-Robertson/Inveigh) - .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers
 - [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) - Trying to tame the three-headed dog.
@@ -140,7 +139,6 @@
 - [dub-flow/sessionprobe](https://github.com/dub-flow/sessionprobe) - SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a l
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [gatariee/Winton](https://github.com/gatariee/Winton) - Command and Control (C2) framework
-- [liamg/furious](https://github.com/liamg/furious) - :angry: Go IP/port scanner with SYN (stealth) scanning and device manufacturer identification
 - [kudelskisecurity/youshallnotpass](https://github.com/kudelskisecurity/youshallnotpass) - YouShallNotPass brings an added level of execution security to mission-critical CI/CD Systems.
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [Zerx0r/dvenom](https://github.com/Zerx0r/dvenom) - 🐍 Double Venom (DVenom) is a tool that provides an encryption wrapper and loader for your shellcode.
@@ -217,7 +215,6 @@
 - [nowak0x01/JoomSploit](https://github.com/nowak0x01/JoomSploit) - JoomSploit is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in Joomla CMS.
 - [nowak0x01/PrestaXSRF](https://github.com/nowak0x01/PrestaXSRF) - PrestaXSRF is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in PrestaShop E-Commerce
 - [nowak0x01/Drupalwned](https://github.com/nowak0x01/Drupalwned) - Drupalwned is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in Drupal CMS.
-- [projectdiscovery/nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension) - Nuclei AI - Browser Extension for Rapid Nuclei Template Generation
 - [devXprite/infoooze](https://github.com/devXprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
 - [factionsecurity/faction](https://github.com/factionsecurity/faction) - Pen Test Report Generation and Assessment Collaboration
 - [R-s0n/ars0n-framework](https://github.com/R-s0n/ars0n-framework) - A Modern Framework for Bug Bounty Hunting
@@ -404,7 +401,6 @@
 - [theowni/Damn-Vulnerable-RESTaurant-API-Game](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
 - [chiasmod0n/chiasmodon](https://github.com/chiasmod0n/chiasmodon) - Chiasmodon is an OSINT  tool designed to assist in the process of gathering information about a target domain. Its primary functionality revolves around searching for domain-related data, including do
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [AbstractEngine/pentest-muse-cli](https://github.com/AbstractEngine/pentest-muse-cli) - 
 - [Geeoon/DNS-Tunnel-Keylogger](https://github.com/Geeoon/DNS-Tunnel-Keylogger) - Keylogging server and client that uses DNS tunneling/exfiltration to transmit keystrokes through firewalls.
 - [cddmp/enum4linux-ng](https://github.com/cddmp/enum4linux-ng) - A next generation version of enum4linux (a Windows/Samba enumeration tool) with additional features like JSON/YAML export. Aimed for security professionals and CTF players.
 - [The-OSINT-Newsletter/excalibur](https://github.com/The-OSINT-Newsletter/excalibur) - Pivot from a Twitter profile to Medium, Product Hunt, Mastodon, and more with OSINT
@@ -613,7 +609,6 @@
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research,
 - [0xKayala/NucleiScanner](https://github.com/0xKayala/NucleiScanner) - NucleiScanner is a Powerful Automation tool for detecting Unknown Vulnerabilities in the Web Applications
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
-- [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) - Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [JeanPeyreMesMots/osx-password-dumper](https://github.com/JeanPeyreMesMots/osx-password-dumper) - A tool to dump users's .plist on a Mac OS system and to convert them into a crackable hash
