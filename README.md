@@ -109,7 +109,6 @@ Methodology:
 - [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 ##### Vuln scanners
 - [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis) - A modular vulnerability scanner with automatic report generation capabilities.
-- [capture0x/LFI-FINDER](https://github.com/capture0x/LFI-FINDER) - LFI-FINDER is an open-source tool available on GitHub that focuses on detecting Local File Inclusion (LFI) vulnerabilities
 - [casterbyte/Above](https://github.com/casterbyte/Above) - Invisible network protocol sniffer
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
@@ -121,7 +120,6 @@ Methodology:
 - [fkkarakurt/reconic](https://github.com/fkkarakurt/reconic) - A Powerful Network Reconnaissance Tool for Security Professionals
 ##### Web Fuzzing
 - [pikpikcu/nodesub](https://github.com/pikpikcu/nodesub) - Nodesub is a command-line tool for finding subdomains in bug bounty programs
-- [0xKayala/NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications
 - [mschwager/route-detect](https://github.com/mschwager/route-detect) - Find authentication (authn) and authorization (authz) security bugs in web application routes.
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 - [YasserREED/NoBlindi](https://github.com/YasserREED/NoBlindi) - NoBlindi is a command-line tool for exploiting blind NoSQL injection vulnerabilities to recover passwords in web applications.
@@ -132,13 +130,12 @@ Methodology:
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [0xKayala/ParamSpider](https://github.com/0xKayala/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
-- [0xKayala/NucleiScanner](https://github.com/0xKayala/NucleiScanner) - NucleiScanner is a Powerful Automation tool for detecting Unknown Vulnerabilities in the Web Applications
 - [thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
-- [capture0x/LFI-FINDER](https://github.com/capture0x/LFI-FINDER) - LFI-FINDER is an open-source tool available on GitHub that focuses on detecting Local File Inclusion (LFI) vulnerabilities
 - [AiGptCode/Ai-Security-URL](https://github.com/AiGptCode/Ai-Security-URL) - functions to exploit common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and Path Traversal.
 - [pentagridsec/archive_pwn](https://github.com/pentagridsec/archive_pwn) - A Python-based tool to create zip, tar and cpio archives to exploit common archive library issues and developer mistakes
 - [chaudharyarjun/RepoReaper](https://github.com/chaudharyarjun/RepoReaper) - RepoReaper is an automated tool crafted to meticulously scan and identify exposed .git repositories within specified domains and their subdomains.
 - [RevoltSecurities/SubProber](https://github.com/RevoltSecurities/SubProber) - Subprober is a powerful and efficient subdomain scanning tool written in Python. With the ability to handle large lists of subdomains. The tool offers concurrent scanning, allowing users to define the
+- [swisskyrepo/SSRFmap](https://github.com/swisskyrepo/SSRFmap) - Automatic SSRF fuzzer and exploitation tool
 ##### Web scanners
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [gotr00t0day/Gsec](https://github.com/gotr00t0day/Gsec) - Web Security Scanner
