@@ -349,6 +349,7 @@
 
 ## Python 
 
+- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [swisskyrepo/SSRFmap](https://github.com/swisskyrepo/SSRFmap) - Automatic SSRF fuzzer and exploitation tool
 - [mlcsec/Graphpython](https://github.com/mlcsec/Graphpython) - Modular cross-platform Microsoft Graph API (Entra, o365, and Intune) enumeration and exploitation toolkit
 - [0xKayala/ParamSpider](https://github.com/0xKayala/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
