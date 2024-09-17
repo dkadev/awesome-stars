@@ -525,7 +525,7 @@
 - [optiv/KnockKnock](https://github.com/optiv/KnockKnock) - Enumerate valid users within Microsoft Teams and OneDrive with clean output.
 - [cado-security/varc](https://github.com/cado-security/varc) - Volatile Artifact Collector collects a snapshot of volatile data from a system. It tells you what is happening on a system, and is of particular use when investigating a security incident.
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
-- [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities) and shar
+- [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [nccgroup/ccs](https://github.com/nccgroup/ccs) - 
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
