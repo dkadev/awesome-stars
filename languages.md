@@ -20,7 +20,6 @@
 - [Kotlin](#kotlin)
 - [Nim](#nim)
 - [OCaml](#ocaml)
-- [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -102,7 +101,7 @@
 - [activecm/rita](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [wikiZ/RedGuard](https://github.com/wikiZ/RedGuard) - RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.
 - [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks
-- [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song matching algorithm.
+- [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
 - [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 - [ANDRVV/gapcast](https://github.com/ANDRVV/gapcast) - 📡 802.11 broadcast analyzer & injector
@@ -255,10 +254,6 @@
 
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
-## Open Policy Agent 
-
-- [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) - Automation to assess the state of your M365 tenant against CISA's baselines
-
 ## Others 
 
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -324,6 +319,7 @@
 
 ## PowerShell 
 
+- [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) - Automation to assess the state of your M365 tenant against CISA's baselines
 - [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFU
 - [Diverto/IPPrintC2](https://github.com/Diverto/IPPrintC2) - PoC for using MS Windows printers for persistence / command and control via Internet Printing
 - [tylerdotrar/Unfuck-Windows10](https://github.com/tylerdotrar/Unfuck-Windows10) - Script meant to debloat Windows 10, enhance privacy, and improve performance & the overall user experience.
@@ -366,7 +362,7 @@
 - [efeali/fragtunnel](https://github.com/efeali/fragtunnel) - Fragtunnel is a proof-of-concept (PoC) TCP tunnel tool that you can use to tunnel your application's traffic and bypass next-generation firewalls en route to the target.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [LucasFaudman/apkscan](https://github.com/LucasFaudman/apkscan) - Scan for secrets, endpoints, and other sensitive data after decompiling and deobfuscating Android files. (.apk, .xapk, .dex, .jar, .class, .smali, .zip, .aar, .arsc, .aab, .jadx.kts).
-- [PR-Pilot-AI/pr-pilot](https://github.com/PR-Pilot-AI/pr-pilot) - An AI agent for your development workflow that can search and manipulate the code base, browse the internet and interact with Github issues and pull requests
+- [arc-eng/engine](https://github.com/arc-eng/engine) - An AI agent for your development workflow that can search and manipulate the code base, browse the internet and interact with Github issues and pull requests
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [powerexploit/Ashok](https://github.com/powerexploit/Ashok) - Ashok is a OSINT Recon Tool , a.k.a :heart_eyes:  Swiss Army knife .
 - [domain-protect/domain-protect-gcp](https://github.com/domain-protect/domain-protect-gcp) - Protect against subdomain takeover
