@@ -684,7 +684,7 @@
 
 ## YARA 
 
-- [chainguard-dev/bincapz](https://github.com/chainguard-dev/bincapz) - detect malicious program behaviors
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - detect malicious program behaviors
 - [splunk/ShellSweep](https://github.com/splunk/ShellSweep) - ShellSweeping the evil.
 
 
