@@ -1476,6 +1476,7 @@
 
 ## python 
 
+- [brightio/penelope](https://github.com/brightio/penelope) - Penelope Shell Handler
 - [mlcsec/Graphpython](https://github.com/mlcsec/Graphpython) - Modular cross-platform Microsoft Graph API (Entra, o365, and Intune) enumeration and exploitation toolkit
 - [nccgroup/PMapper](https://github.com/nccgroup/PMapper) - A tool for quickly evaluating IAM permissions in AWS.
 - [DataDog/guarddog](https://github.com/DataDog/guarddog) - :snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages
