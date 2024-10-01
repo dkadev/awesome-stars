@@ -39,7 +39,6 @@
 
 - [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer) - Abusing impersonation privileges through the "Printer Bug"
 - [rbsec/sslscan](https://github.com/rbsec/sslscan) - sslscan tests SSL/TLS enabled services to discover supported cipher suites
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [3nock/OTE](https://github.com/3nock/OTE) - OSINT Template Engine
 - [libimobiledevice/ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) - Manage apps of iOS devices
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
@@ -220,6 +219,7 @@
 - [kgretzky/evilqr](https://github.com/kgretzky/evilqr) - Proof-of-concept to demonstrate dynamic QR swap phishing attacks in practice.
 - [Sija/gitbook2pdf](https://github.com/Sija/gitbook2pdf) - CLI utility to turn a published GitBook website into a collection of PDFs for offline reading
 - [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - A full stack web application that combines many tools and services for security analysts into a single tool.
