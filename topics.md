@@ -389,7 +389,7 @@
 
 ## cpp 
 
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, Reddit, Flickr and other hosting sites.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, X/Twitter, Reddit, Flickr and other hosting sites.
 - [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg) - Nidhogg is an all-in-one simple to use windows kernel rootkit.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -692,7 +692,7 @@
 - [mbrg/power-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
 - [powerexploit/Ashok](https://github.com/powerexploit/Ashok) - Ashok is a OSINT Recon Tool , a.k.a :heart_eyes:  Swiss Army knife .
 - [adeptex/whispers](https://github.com/adeptex/whispers) - Identify hardcoded secrets in static structured text (version 2)
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, Reddit, Flickr and other hosting sites.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, X/Twitter, Reddit, Flickr and other hosting sites.
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [AleksaMCode/Preferred-Network-List-Sniffer](https://github.com/AleksaMCode/Preferred-Network-List-Sniffer) - A reconnaissance tool for capturing and displaying SSIDs from device's Preferred Network List.
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
@@ -937,7 +937,7 @@
 
 ## mastodon 
 
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, Reddit, Flickr and other hosting sites.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, X/Twitter, Reddit, Flickr and other hosting sites.
 
 ## microsoft 
 
@@ -1467,7 +1467,7 @@
 
 ## privacy 
 
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, Reddit, Flickr and other hosting sites.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, X/Twitter, Reddit, Flickr and other hosting sites.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
