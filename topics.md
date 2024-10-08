@@ -594,6 +594,7 @@
 
 ## go 
 
+- [nickvourd/Supernova](https://github.com/nickvourd/Supernova) - Real fucking shellcode encryptor & obfuscator tool
 - [EwenQuim/entropy](https://github.com/EwenQuim/entropy) - Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
@@ -611,6 +612,7 @@
 
 ## golang 
 
+- [nickvourd/Supernova](https://github.com/nickvourd/Supernova) - Real fucking shellcode encryptor & obfuscator tool
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
@@ -867,7 +869,7 @@
 ## linux 
 
 - [Aegrah/PANIX](https://github.com/Aegrah/PANIX) - Customizable Linux Persistence Tool for Security Research and Detection Engineering.
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - detect malicious program behaviors
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - the paranoid open-source malware scanner
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [vm32/Digital-Forensics-Script-for-Linux](https://github.com/vm32/Digital-Forensics-Script-for-Linux) - Advanced Bash script designed for conducting digital forensics on Linux systems
@@ -923,7 +925,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for Ollama, ChatGPT and compatible API-backends
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - detect malicious program behaviors
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - the paranoid open-source malware scanner
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [Hakky54/certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 🔐 A CLI tool to extract server certificates
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
@@ -1107,6 +1109,7 @@
 
 ## others 
 
+- [attacksurge/ax](https://github.com/attacksurge/ax) - Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our seven supported cloud providers.
 - [WodenSec/graphcat-ng](https://github.com/WodenSec/graphcat-ng) - Generate graphs and charts based on password cracking result
 - [cube0x0/KrbRelay](https://github.com/cube0x0/KrbRelay) - Framework for Kerberos relaying
 - [dirkjanm/mitm6](https://github.com/dirkjanm/mitm6) - pwning IPv4 via IPv6
@@ -1580,7 +1583,7 @@
 
 ## reverse-engineering 
 
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - detect malicious program behaviors
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - the paranoid open-source malware scanner
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
