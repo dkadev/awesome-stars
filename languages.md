@@ -78,6 +78,7 @@
 - [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, X/Twitter, Reddit, Flickr and other hosting sites.
 - [AlteredSecurity/Disable-TamperProtection](https://github.com/AlteredSecurity/Disable-TamperProtection) - A POC to disable TamperProtection and other Defender / MDE components
 - [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - Little user-mode AV/EDR evasion lab for training & learning purposes
 - [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg) - Nidhogg is an all-in-one simple to use windows kernel rootkit.
 - [decoder-it/LocalPotato](https://github.com/decoder-it/LocalPotato) - 
@@ -109,7 +110,6 @@
 - [ANDRVV/gapcast](https://github.com/ANDRVV/gapcast) - 📡 802.11 broadcast analyzer & injector
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 - [MultSec/MultCheck](https://github.com/MultSec/MultCheck) - Identifies bad bytes from static analysis with any Anti-Virus scanner.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [jfjallid/go-secdump](https://github.com/jfjallid/go-secdump) - Tool to remotely dump secrets from the Windows registry
