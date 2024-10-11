@@ -181,6 +181,7 @@
 
 ## android 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [LucasFaudman/apkscan](https://github.com/LucasFaudman/apkscan) - Scan for secrets, endpoints, and other sensitive data after decompiling and deobfuscating Android files. (.apk, .xapk, .dex, .jar, .class, .smali, .zip, .aar, .arsc, .aab, .jadx.kts).
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
@@ -355,6 +356,7 @@
 
 ## cli 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [EwenQuim/entropy](https://github.com/EwenQuim/entropy) - Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -746,7 +748,6 @@
 - [globocom/secDevLabs](https://github.com/globocom/secDevLabs) - A laboratory for learning secure web and mobile development in a practical manner.
 - [oppsec/Pinkerton](https://github.com/oppsec/Pinkerton) - 🕵️ Pinkerton is an JavaScript file crawler and secret finder tool developed in Python
 - [cado-security/varc](https://github.com/cado-security/varc) - Volatile Artifact Collector collects a snapshot of volatile data from a system. It tells you what is happening on a system, and is of particular use when investigating a security incident.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) - Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 200 common, vulnerable components (openssl, libpng, libxml2, expat and others), or
@@ -754,6 +755,7 @@
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire) - Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -837,6 +839,7 @@
 
 ## json 
 
+- [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [ozlerhakan/mongodb-json-files](https://github.com/ozlerhakan/mongodb-json-files) - :package: A curated list of JSON / BSON datasets from the web in order to practice / use in MongoDB
 
@@ -868,6 +871,7 @@
 
 ## linux 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Aegrah/PANIX](https://github.com/Aegrah/PANIX) - Customizable Linux Persistence Tool for Security Research and Detection Engineering.
 - [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - the paranoid open-source malware scanner
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
@@ -921,6 +925,7 @@
 
 ## macos 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
@@ -980,6 +985,7 @@
 
 ## neovim 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
 ## nestjs 
@@ -1109,6 +1115,9 @@
 
 ## others 
 
+- [BushidoUK/Russian-APT-Tool-Matrix](https://github.com/BushidoUK/Russian-APT-Tool-Matrix) - A tool matrix for Russian APTs based on the Ransomware Tool Matrix
+- [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+- [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [attacksurge/ax](https://github.com/attacksurge/ax) - Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our seven supported cloud providers.
 - [WodenSec/graphcat-ng](https://github.com/WodenSec/graphcat-ng) - Generate graphs and charts based on password cracking result
 - [cube0x0/KrbRelay](https://github.com/cube0x0/KrbRelay) - Framework for Kerberos relaying
@@ -1597,6 +1606,7 @@
 
 ## rust 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data collector for BloodHound written in Rust. 🦀
@@ -1786,6 +1796,7 @@
 
 ## terminal 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [JoshuaKasa/van-gonography](https://github.com/JoshuaKasa/van-gonography) - Hide 🕵️‍♂️ your files of any type inside a image of your choice using steganography
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
@@ -1841,6 +1852,7 @@
 
 ## vim 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
@@ -1875,6 +1887,7 @@
 
 ## windows 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [emrekybs/nim-shell](https://github.com/emrekybs/nim-shell) - Reverse shell that can bypass windows defender detection
 - [nickvourd/Windows-Local-Privilege-Escalation-Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook) - Windows Local Privilege Escalation Cookbook
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) - Active Directory data collector for BloodHound written in Rust. 🦀
