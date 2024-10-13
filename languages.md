@@ -482,7 +482,7 @@
 - [assume-breach/Home-Grown-Red-Team](https://github.com/assume-breach/Home-Grown-Red-Team) - 
 - [YasserREED/NoBlindi](https://github.com/YasserREED/NoBlindi) - NoBlindi is a command-line tool for exploiting blind NoSQL injection vulnerabilities to recover passwords in web applications.
 - [thomasjjj/Telegram_Geolocation_Scraper](https://github.com/thomasjjj/Telegram_Geolocation_Scraper) - Load a JSON export of a Telegram channel containing coordinates of geolocations and filter into a csv for loading into Google Earth.
-- [spark1security/n0s1](https://github.com/spark1security/n0s1) - Secret Scanner for Slack, Jira, Confluence, Asana, Wrike and Linear
+- [spark1security/n0s1](https://github.com/spark1security/n0s1) - Secret Scanner for Slack, Jira, Confluence, Asana, Wrike, Linear and Zendesk
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [ramykatour/GitBook-Downloader-To-HTML-Converter](https://github.com/ramykatour/GitBook-Downloader-To-HTML-Converter) - GitBook Downloader To HTML Converter
 - [pentagridsec/archive_pwn](https://github.com/pentagridsec/archive_pwn) - A Python-based tool to create zip, tar and cpio archives to exploit common archive library issues and developer mistakes
@@ -657,7 +657,7 @@
 - [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [clinebot/cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
