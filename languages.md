@@ -343,7 +343,7 @@
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
 - [The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec) - A PowerShell tool that takes strong inspiration from CrackMapExec / NetExec
-- [joeavanzato/Trawler](https://github.com/joeavanzato/Trawler) - PowerShell script to help Incident Responders discover potential adversary persistence mechanisms.
+- [joeavanzato/Trawler](https://github.com/joeavanzato/Trawler) - PowerShell script helping Incident Responders discover potential adversary persistence mechanisms.
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
 - [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [LuemmelSec/Pentest-Tools-Collection](https://github.com/LuemmelSec/Pentest-Tools-Collection) - 
