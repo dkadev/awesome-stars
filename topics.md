@@ -1476,7 +1476,7 @@
 - [drak3hft7/Cheat-Sheet---Active-Directory](https://github.com/drak3hft7/Cheat-Sheet---Active-Directory) - This cheat sheet contains common enumeration and attack methods for Windows Active Directory with the use of powershell.
 - [h0ru/AMSI-Reaper](https://github.com/h0ru/AMSI-Reaper) - 
 - [The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec) - A PowerShell tool that takes strong inspiration from CrackMapExec / NetExec
-- [joeavanzato/Trawler](https://github.com/joeavanzato/Trawler) - PowerShell script to help Incident Responders discover potential adversary persistence mechanisms.
+- [joeavanzato/Trawler](https://github.com/joeavanzato/Trawler) - PowerShell script helping Incident Responders discover potential adversary persistence mechanisms.
 
 ## privacy 
 
@@ -1901,7 +1901,7 @@
 - [h0ru/AMSI-Reaper](https://github.com/h0ru/AMSI-Reaper) - 
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-- [joeavanzato/Trawler](https://github.com/joeavanzato/Trawler) - PowerShell script to help Incident Responders discover potential adversary persistence mechanisms.
+- [joeavanzato/Trawler](https://github.com/joeavanzato/Trawler) - PowerShell script helping Incident Responders discover potential adversary persistence mechanisms.
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
 - [Fadi002/unshackle](https://github.com/Fadi002/unshackle) - Open-source tool to bypass windows and linux passwords from bootable usb
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
