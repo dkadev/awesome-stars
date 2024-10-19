@@ -93,6 +93,7 @@
 
 ## Go 
 
+- [cerberauth/vulnapi](https://github.com/cerberauth/vulnapi) - API Security Vulnerability Scanner designed to help you secure your APIs.
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [nickvourd/Supernova](https://github.com/nickvourd/Supernova) - Real fucking shellcode encryptor & obfuscator tool
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
@@ -156,7 +157,7 @@
 - [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [iknowjason/edge](https://github.com/iknowjason/edge) - Recon tool for cloud provider attribution.  Supports AWS, Azure, Google, Cloudflare, and Digital Ocean.
@@ -352,6 +353,7 @@
 
 ## Python 
 
+- [vectra-ai-research/Halberd](https://github.com/vectra-ai-research/Halberd) - Halberd : Multi-Cloud Security Testing Tool to execute a comprehensive array of attack techniques across multiple surfaces via a simple web interface.
 - [WodenSec/graphcat-ng](https://github.com/WodenSec/graphcat-ng) - Generate graphs and charts based on password cracking result
 - [dirkjanm/mitm6](https://github.com/dirkjanm/mitm6) - pwning IPv4 via IPv6
 - [brightio/penelope](https://github.com/brightio/penelope) - Penelope Shell Handler
