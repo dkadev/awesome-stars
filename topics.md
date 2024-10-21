@@ -157,6 +157,7 @@
 
 ## ai 
 
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 - [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for Ollama, ChatGPT and compatible API-backends
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
