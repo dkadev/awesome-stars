@@ -643,6 +643,7 @@
 
 ## hacking 
 
+- [blacklanternsecurity/TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
 - [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 - [BushidoUK/Ransomware-Tool-Matrix](https://github.com/BushidoUK/Ransomware-Tool-Matrix) - A resource containing all the tools each ransomware gangs uses
 - [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
@@ -957,6 +958,7 @@
 
 ## microsoft 
 
+- [blacklanternsecurity/TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
 - [vectra-ai-research/Halberd](https://github.com/vectra-ai-research/Halberd) - Halberd : Multi-Cloud Security Testing Tool to execute a comprehensive array of attack techniques across multiple surfaces via a simple web interface.
 - [nickvourd/Windows-Local-Privilege-Escalation-Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook) - Windows Local Privilege Escalation Cookbook
 - [drak3hft7/Cheat-Sheet---Active-Directory](https://github.com/drak3hft7/Cheat-Sheet---Active-Directory) - This cheat sheet outlines common enumeration and attack methods for Windows Active Directory using PowerShell.
@@ -1125,6 +1127,7 @@
 
 ## others 
 
+- [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 - [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhan
 - [BushidoUK/Russian-APT-Tool-Matrix](https://github.com/BushidoUK/Russian-APT-Tool-Matrix) - A tool matrix for Russian APTs based on the Ransomware Tool Matrix
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
@@ -1505,6 +1508,7 @@
 
 ## python 
 
+- [blacklanternsecurity/TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
 - [brightio/penelope](https://github.com/brightio/penelope) - Penelope Shell Handler
 - [mlcsec/Graphpython](https://github.com/mlcsec/Graphpython) - Modular cross-platform Microsoft Graph API (Entra, o365, and Intune) enumeration and exploitation toolkit
 - [nccgroup/PMapper](https://github.com/nccgroup/PMapper) - A tool for quickly evaluating IAM permissions in AWS.
@@ -1631,6 +1635,7 @@
 
 ## security 
 
+- [blacklanternsecurity/TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
 - [cerberauth/vulnapi](https://github.com/cerberauth/vulnapi) - API Security Vulnerability Scanner designed to help you secure your APIs.
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
