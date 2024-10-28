@@ -262,6 +262,7 @@
 
 ## Others 
 
+- [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 - [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhan
 - [BushidoUK/Russian-APT-Tool-Matrix](https://github.com/BushidoUK/Russian-APT-Tool-Matrix) - A tool matrix for Russian APTs based on the Ransomware Tool Matrix
 - [osintambition/Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
@@ -354,6 +355,7 @@
 
 ## Python 
 
+- [blacklanternsecurity/TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
 - [vectra-ai-research/Halberd](https://github.com/vectra-ai-research/Halberd) - Halberd : Multi-Cloud Security Testing Tool to execute a comprehensive array of attack techniques across multiple surfaces via a simple web interface.
 - [WodenSec/graphcat-ng](https://github.com/WodenSec/graphcat-ng) - Generate graphs and charts based on password cracking result
 - [dirkjanm/mitm6](https://github.com/dirkjanm/mitm6) - pwning IPv4 via IPv6
