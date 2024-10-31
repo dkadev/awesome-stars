@@ -1127,6 +1127,7 @@
 
 ## others 
 
+- [immunIT/drupwn](https://github.com/immunIT/drupwn) - Drupal enumeration & exploitation tool
 - [amjcyber/pwnlook](https://github.com/amjcyber/pwnlook) - An offensive postexploitation tool that will give you complete control over the Outlook desktop application and therefore to the emails configured in it.
 - [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 - [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhan
@@ -1508,6 +1509,7 @@
 
 ## python 
 
+- [4n4nk3/Wordlister](https://github.com/4n4nk3/Wordlister) - A simple wordlists generator and mangler written in Python 3.10.1.
 - [blacklanternsecurity/TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
 - [brightio/penelope](https://github.com/brightio/penelope) - Penelope Shell Handler
 - [mlcsec/Graphpython](https://github.com/mlcsec/Graphpython) - Modular cross-platform Microsoft Graph API (Entra, o365, and Intune) enumeration and exploitation toolkit
