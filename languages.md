@@ -710,7 +710,7 @@
 
 ## YARA 
 
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - the paranoid open-source malware scanner
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - the subtle malware scanner
 - [splunk/ShellSweep](https://github.com/splunk/ShellSweep) - ShellSweeping the evil.
 
 
