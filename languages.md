@@ -364,7 +364,7 @@
 - [4n4nk3/Wordlister](https://github.com/4n4nk3/Wordlister) - A simple wordlists generator and mangler written in Python 3.10.1.
 - [immunIT/drupwn](https://github.com/immunIT/drupwn) - Drupal enumeration & exploitation tool
 - [blacklanternsecurity/TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
-- [vectra-ai-research/Halberd](https://github.com/vectra-ai-research/Halberd) - Halberd : Multi-Cloud Security Testing Tool to execute attacks across multiple surfaces via a intuitive web interface.
+- [vectra-ai-research/Halberd](https://github.com/vectra-ai-research/Halberd) - Halberd : Multi-Cloud Attack Tool
 - [WodenSec/graphcat-ng](https://github.com/WodenSec/graphcat-ng) - Generate graphs and charts based on password cracking result
 - [dirkjanm/mitm6](https://github.com/dirkjanm/mitm6) - pwning IPv4 via IPv6
 - [brightio/penelope](https://github.com/brightio/penelope) - Penelope Shell Handler
@@ -680,7 +680,7 @@
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first, open-source library of UI components that works as a standalone or as a Tailwind CSS plugin. It is compatible with UIkit 3. The design is influenced by shadcn/ui.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
-- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy thinkers.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [albingroen/react-cmdk](https://github.com/albingroen/react-cmdk) - A fast, accessible, and pretty command palette for React
