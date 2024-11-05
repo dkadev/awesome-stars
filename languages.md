@@ -381,7 +381,7 @@
 - [initstring/linkedin2username](https://github.com/initstring/linkedin2username) - OSINT Tool: Generate username lists for companies on LinkedIn
 - [mbrg/power-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
 - [aydinnyunus/gpt4-captcha-bypass](https://github.com/aydinnyunus/gpt4-captcha-bypass) - Captcha Bypass using GPT4-o
-- [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
+- [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - PDF to Markdown with vision models
 - [lawndoc/Respotter](https://github.com/lawndoc/Respotter) - Respotter is a Responder honeypot! Catch attackers as soon as they spin up Responder in your environment.
 - [efeali/fragtunnel](https://github.com/efeali/fragtunnel) - Fragtunnel is a proof-of-concept (PoC) TCP tunnel tool that you can use to tunnel your application's traffic and bypass next-generation firewalls en route to the target.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
