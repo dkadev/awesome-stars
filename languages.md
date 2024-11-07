@@ -185,6 +185,7 @@
 
 ## HTML 
 
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [spyboy-productions/r4ven](https://github.com/spyboy-productions/r4ven) - Track the GPS location of the user's smartphone or PC and capture a picture of the target, along with IP and device information.
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [mrd0x/PWA-Phishing](https://github.com/mrd0x/PWA-Phishing) - 
