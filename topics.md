@@ -1130,6 +1130,7 @@
 
 ## others 
 
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [immunIT/drupwn](https://github.com/immunIT/drupwn) - Drupal enumeration & exploitation tool
 - [amjcyber/pwnlook](https://github.com/amjcyber/pwnlook) - An offensive postexploitation tool that will give you complete control over the Outlook desktop application and therefore to the emails configured in it.
 - [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
