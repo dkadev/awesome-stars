@@ -1398,7 +1398,7 @@
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
 - [redeye-framework/Redeye](https://github.com/redeye-framework/Redeye) - Redeye is a tool intended to help you manage your data during a pentest operation
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
-- [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor) - Fully customisable, offensive security reporting solution designed for pentesters, red teamers and other security-related people alike.
+- [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor) - A customizable and powerful penetration testing reporting platform for offensive security professionals. Simplify, customize, and automate your pentest reports with ease.
 - [GhostManager/Ghostwriter](https://github.com/GhostManager/Ghostwriter) - The SpecterOps project management and reporting engine
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash) - Generates millions of keyword-based password mutations in seconds.
