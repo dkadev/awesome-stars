@@ -362,6 +362,7 @@
 
 ## Python 
 
+- [elementsinteractive/twyn](https://github.com/elementsinteractive/twyn) - Security tool against dependency typosquatting attacks
 - [4n4nk3/Wordlister](https://github.com/4n4nk3/Wordlister) - A simple wordlists generator and mangler written in Python 3.10.1.
 - [immunIT/drupwn](https://github.com/immunIT/drupwn) - Drupal enumeration & exploitation tool
 - [blacklanternsecurity/TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
@@ -484,7 +485,7 @@
 - [Sn1r/Forbidden-Buster](https://github.com/Sn1r/Forbidden-Buster) - A tool designed to automate various techniques in order to bypass HTTP 401 and 403 response codes and gain access to unauthorized areas in the system. This code is made for security enthusiasts and pr
 - [HalilDeniz/NetworkAssessment](https://github.com/HalilDeniz/NetworkAssessment) - NetworkAssessment: Network Compromise Assessment Tool
 - [HalilDeniz/TrafficWatch](https://github.com/HalilDeniz/TrafficWatch) - TrafficWatch, a packet sniffer tool, allows you to monitor and analyze network traffic from PCAP files
-- [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no-cost and open logging and protective monitoring solution serving all organizations.
+- [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no cost, open source platform that centralizes log collection, enhances threat detection, and enables real-time alerting, helping small to medium-sized organizations secur
 - [HalilDeniz/PathFinder](https://github.com/HalilDeniz/PathFinder) - Web Path Finder
 - [gojek/CureIAM](https://github.com/gojek/CureIAM) - Clean accounts over permissions in GCP infra at scale
 - [c3c/ADExplorerSnapshot.py](https://github.com/c3c/ADExplorerSnapshot.py) - ADExplorerSnapshot.py is an AD Explorer snapshot parser. It is made as an ingestor for BloodHound, and also supports full-object dumping to NDJSON.
