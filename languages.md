@@ -323,7 +323,7 @@
 
 ## PHP 
 
-- [Cvar1984/sussyfinder](https://github.com/Cvar1984/sussyfinder) - Single file php webshell scanner to detect potentially malicious backdoor based on token and hash with web interface and VirusTotal integration
+- [Cvar1984/sussyfinder](https://github.com/Cvar1984/sussyfinder) - Single file php webshell scanner to detect potentially malicious backdoor based on token and hash with web interface and VirusTotal integration. Subscribe to get API Key
 - [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers that keeps privacy and ease of use in mind!
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [globocom/secDevLabs](https://github.com/globocom/secDevLabs) - A laboratory for learning secure web and mobile development in a practical manner.
