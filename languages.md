@@ -362,6 +362,8 @@
 
 ## Python 
 
+- [dirkjanm/ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump) - Active Directory information dumper via LDAP
+- [ropnop/windapsearch](https://github.com/ropnop/windapsearch) - Python script to enumerate users, groups and computers from a Windows domain through LDAP queries
 - [elementsinteractive/twyn](https://github.com/elementsinteractive/twyn) - Security tool against dependency typosquatting attacks
 - [4n4nk3/Wordlister](https://github.com/4n4nk3/Wordlister) - A simple wordlists generator and mangler written in Python 3.10.1.
 - [immunIT/drupwn](https://github.com/immunIT/drupwn) - Drupal enumeration & exploitation tool
@@ -384,7 +386,7 @@
 - [mbrg/power-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
 - [aydinnyunus/gpt4-captcha-bypass](https://github.com/aydinnyunus/gpt4-captcha-bypass) - Captcha Bypass using GPT4-o
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - PDF to Markdown with vision models
-- [lawndoc/Respotter](https://github.com/lawndoc/Respotter) - Respotter is a Responder honeypot! Catch attackers as soon as they spin up Responder in your environment.
+- [lawndoc/Respotter](https://github.com/lawndoc/Respotter) - Respotter is a Responder honeypot. Detect Responder in your environment as soon as it's spun up.
 - [efeali/fragtunnel](https://github.com/efeali/fragtunnel) - Fragtunnel is a proof-of-concept (PoC) TCP tunnel tool that you can use to tunnel your application's traffic and bypass next-generation firewalls en route to the target.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [LucasFaudman/apkscan](https://github.com/LucasFaudman/apkscan) - Scan for secrets, endpoints, and other sensitive data after decompiling and deobfuscating Android files. (.apk, .xapk, .dex, .jar, .class, .smali, .zip, .aar, .arsc, .aab, .jadx.kts).
