@@ -38,6 +38,7 @@
 
 ## C 
 
+- [topotam/PetitPotam](https://github.com/topotam/PetitPotam) - PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer) - Abusing impersonation privileges through the "Printer Bug"
 - [rbsec/sslscan](https://github.com/rbsec/sslscan) - sslscan tests SSL/TLS enabled services to discover supported cipher suites
@@ -78,7 +79,7 @@
 ## C++ 
 
 - [vxCrypt0r/AMSI_VEH](https://github.com/vxCrypt0r/AMSI_VEH) - A Powershell AMSI Bypass technique via Vectored Exception Handler (VEH). This technique does not perform assembly instruction patching, function hooking or Import Address Table (IAT) modification.
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, X/Twitter, Reddit, Flickr and other hosting sites.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - A data-hiding / steganography-like CLI tool for JPG images.
 - [AlteredSecurity/Disable-TamperProtection](https://github.com/AlteredSecurity/Disable-TamperProtection) - A POC to disable TamperProtection and other Defender / MDE components
 - [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
 - [Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - Little user-mode AV/EDR evasion lab for training & learning purposes
@@ -99,6 +100,7 @@
 
 ## Go 
 
+- [lkarlslund/nifo](https://github.com/lkarlslund/nifo) - Nuke It From Orbit - remove AV/EDR with physical access
 - [cerberauth/vulnapi](https://github.com/cerberauth/vulnapi) - API Security Vulnerability Scanner designed to help you secure your APIs.
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [nickvourd/Supernova](https://github.com/nickvourd/Supernova) - Real fucking shellcode encryptor & obfuscator tool
@@ -269,6 +271,9 @@
 
 ## Others 
 
+- [kaonashi-passwords/Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - Wordlist, rules and masks from Kaonashi project (RootedCON 2019)
+- [NotSoSecure/password_cracking_rules](https://github.com/NotSoSecure/password_cracking_rules) - One rule to crack all passwords. or atleast we hope so.
+- [stealthsploit/OneRuleToRuleThemStill](https://github.com/stealthsploit/OneRuleToRuleThemStill) - A revamped and updated version of my original OneRuleToRuleThemAll hashcat rule
 - [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 - [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhan
 - [BushidoUK/Russian-APT-Tool-Matrix](https://github.com/BushidoUK/Russian-APT-Tool-Matrix) - A tool matrix for Russian APTs based on the Ransomware Tool Matrix
@@ -362,6 +367,8 @@
 
 ## Python 
 
+- [Wh04m1001/DFSCoerce](https://github.com/Wh04m1001/DFSCoerce) - 
+- [ly4k/Certipy](https://github.com/ly4k/Certipy) - Tool for Active Directory Certificate Services enumeration and abuse
 - [dirkjanm/ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump) - Active Directory information dumper via LDAP
 - [ropnop/windapsearch](https://github.com/ropnop/windapsearch) - Python script to enumerate users, groups and computers from a Windows domain through LDAP queries
 - [elementsinteractive/twyn](https://github.com/elementsinteractive/twyn) - Security tool against dependency typosquatting attacks
@@ -596,6 +603,7 @@
 
 ## Rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
@@ -617,6 +625,7 @@
 
 ## Shell 
 
+- [NSAKEY/nsa-rules](https://github.com/NSAKEY/nsa-rules) - Password cracking rules and masks for hashcat that I generated from cracked passwords.
 - [attacksurge/ax](https://github.com/attacksurge/ax) - Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our eight supported cloud providers!
 - [21y4d/nmapAutomator](https://github.com/21y4d/nmapAutomator) - A script that you can run in the background!
 - [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
@@ -669,6 +678,7 @@
 
 ## TypeScript 
 
+- [caverav/auditforge](https://github.com/caverav/auditforge) - AuditForge is a pentest reporting application making it simple and easy to write your findings and generate a customizable report.
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 - [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
@@ -709,12 +719,13 @@
 
 ## Vue 
 
+- [zzzteph/weakpass](https://github.com/zzzteph/weakpass) - Weakpass collection of tools for bruteforce and hashcracking
 - [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller) - Starkiller is a Frontend for PowerShell Empire.
 - [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
 
 ## YARA 
 
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - a new take on #malware #detection
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection
 - [splunk/ShellSweep](https://github.com/splunk/ShellSweep) - ShellSweeping the evil.
 
 
