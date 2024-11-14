@@ -397,7 +397,7 @@
 
 ## cpp 
 
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, X/Twitter, Reddit, Flickr and other hosting sites.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - A data-hiding / steganography-like CLI tool for JPG images.
 - [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg) - Nidhogg is an all-in-one simple to use windows kernel rootkit.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
@@ -431,6 +431,7 @@
 
 ## cybersecurity 
 
+- [caverav/auditforge](https://github.com/caverav/auditforge) - AuditForge is a pentest reporting application making it simple and easy to write your findings and generate a customizable report.
 - [cerberauth/vulnapi](https://github.com/cerberauth/vulnapi) - API Security Vulnerability Scanner designed to help you secure your APIs.
 - [BushidoUK/Ransomware-Tool-Matrix](https://github.com/BushidoUK/Ransomware-Tool-Matrix) - A resource containing all the tools each ransomware gangs uses
 - [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) - Automation to assess the state of your M365 tenant against CISA's baselines
@@ -705,7 +706,7 @@
 - [mbrg/power-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
 - [powerexploit/Ashok](https://github.com/powerexploit/Ashok) - Ashok is a OSINT Recon Tool , a.k.a :heart_eyes:  Swiss Army knife .
 - [adeptex/whispers](https://github.com/adeptex/whispers) - Identify hardcoded secrets in static structured text (version 2)
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, X/Twitter, Reddit, Flickr and other hosting sites.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - A data-hiding / steganography-like CLI tool for JPG images.
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [AleksaMCode/Preferred-Network-List-Sniffer](https://github.com/AleksaMCode/Preferred-Network-List-Sniffer) - A reconnaissance tool for capturing and displaying SSIDs from device's Preferred Network List.
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
@@ -885,7 +886,7 @@
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Aegrah/PANIX](https://github.com/Aegrah/PANIX) - Customizable Linux Persistence Tool for Security Research and Detection Engineering.
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - a new take on #malware #detection
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [vm32/Digital-Forensics-Script-for-Linux](https://github.com/vm32/Digital-Forensics-Script-for-Linux) - Advanced Bash script designed for conducting digital forensics on Linux systems
@@ -943,7 +944,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for Ollama, ChatGPT and compatible API-backends
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - a new take on #malware #detection
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [Hakky54/certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 🔐 A CLI tool to extract server certificates
 - [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
@@ -957,7 +958,7 @@
 
 ## mastodon 
 
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, X/Twitter, Reddit, Flickr and other hosting sites.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - A data-hiding / steganography-like CLI tool for JPG images.
 
 ## microsoft 
 
@@ -1130,6 +1131,14 @@
 
 ## others 
 
+- [kaonashi-passwords/Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - Wordlist, rules and masks from Kaonashi project (RootedCON 2019)
+- [NotSoSecure/password_cracking_rules](https://github.com/NotSoSecure/password_cracking_rules) - One rule to crack all passwords. or atleast we hope so.
+- [NSAKEY/nsa-rules](https://github.com/NSAKEY/nsa-rules) - Password cracking rules and masks for hashcat that I generated from cracked passwords.
+- [stealthsploit/OneRuleToRuleThemStill](https://github.com/stealthsploit/OneRuleToRuleThemStill) - A revamped and updated version of my original OneRuleToRuleThemAll hashcat rule
+- [topotam/PetitPotam](https://github.com/topotam/PetitPotam) - PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
+- [Wh04m1001/DFSCoerce](https://github.com/Wh04m1001/DFSCoerce) - 
+- [lkarlslund/nifo](https://github.com/lkarlslund/nifo) - Nuke It From Orbit - remove AV/EDR with physical access
+- [ly4k/Certipy](https://github.com/ly4k/Certipy) - Tool for Active Directory Certificate Services enumeration and abuse
 - [dirkjanm/ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump) - Active Directory information dumper via LDAP
 - [ropnop/windapsearch](https://github.com/ropnop/windapsearch) - Python script to enumerate users, groups and computers from a Windows domain through LDAP queries
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
@@ -1373,6 +1382,7 @@
 
 ## penetration-testing 
 
+- [caverav/auditforge](https://github.com/caverav/auditforge) - AuditForge is a pentest reporting application making it simple and easy to write your findings and generate a customizable report.
 - [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
 - [initstring/linkedin2username](https://github.com/initstring/linkedin2username) - OSINT Tool: Generate username lists for companies on LinkedIn
 - [LucasFaudman/apkscan](https://github.com/LucasFaudman/apkscan) - Scan for secrets, endpoints, and other sensitive data after decompiling and deobfuscating Android files. (.apk, .xapk, .dex, .jar, .class, .smali, .zip, .aar, .arsc, .aab, .jadx.kts).
@@ -1407,6 +1417,8 @@
 
 ## pentesting 
 
+- [zzzteph/weakpass](https://github.com/zzzteph/weakpass) - Weakpass collection of tools for bruteforce and hashcracking
+- [caverav/auditforge](https://github.com/caverav/auditforge) - AuditForge is a pentest reporting application making it simple and easy to write your findings and generate a customizable report.
 - [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [spyboy-productions/r4ven](https://github.com/spyboy-productions/r4ven) - Track the GPS location of the user's smartphone or PC and capture a picture of the target, along with IP and device information.
@@ -1501,7 +1513,7 @@
 
 ## privacy 
 
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Hide files within a JPG cover image using this steganography-like privacy tool. Post images on Mastodon, X/Twitter, Reddit, Flickr and other hosting sites.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - A data-hiding / steganography-like CLI tool for JPG images.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1618,7 +1630,7 @@
 
 ## reverse-engineering 
 
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - a new take on #malware #detection
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
@@ -1632,6 +1644,7 @@
 
 ## rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -1644,6 +1657,7 @@
 
 ## security 
 
+- [caverav/auditforge](https://github.com/caverav/auditforge) - AuditForge is a pentest reporting application making it simple and easy to write your findings and generate a customizable report.
 - [elementsinteractive/twyn](https://github.com/elementsinteractive/twyn) - Security tool against dependency typosquatting attacks
 - [blacklanternsecurity/TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
 - [cerberauth/vulnapi](https://github.com/cerberauth/vulnapi) - API Security Vulnerability Scanner designed to help you secure your APIs.
@@ -1826,6 +1840,7 @@
 
 ## terminal 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [JoshuaKasa/van-gonography](https://github.com/JoshuaKasa/van-gonography) - Hide 🕵️‍♂️ your files of any type inside a image of your choice using steganography
