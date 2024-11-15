@@ -162,7 +162,7 @@
 - [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for Ollama, ChatGPT and compatible API-backends
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [dhammon/ai-goat](https://github.com/dhammon/ai-goat) - Learn AI security through a series of vulnerable LLM CTF challenges. No sign ups, no cloud fees, run everything locally on your system.
-- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy thinkers.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [latiotech/LAST](https://github.com/latiotech/LAST) - Use AI to Scan Your Code from the Command Line for security and code smells. Bring your own keys. Supports OpenAI and Gemini
@@ -953,7 +953,7 @@
 ## markdown 
 
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy thinkers.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [matro7sh/BypassAV](https://github.com/matro7sh/BypassAV) - This map lists the essential techniques to bypass anti-virus and EDR
 
 ## mastodon 
@@ -1131,6 +1131,7 @@
 
 ## others 
 
+- [sud0Ru/NauthNRPC](https://github.com/sud0Ru/NauthNRPC) - Enumerate Domain  Users Without Authentication
 - [kaonashi-passwords/Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - Wordlist, rules and masks from Kaonashi project (RootedCON 2019)
 - [NotSoSecure/password_cracking_rules](https://github.com/NotSoSecure/password_cracking_rules) - One rule to crack all passwords. or atleast we hope so.
 - [NSAKEY/nsa-rules](https://github.com/NSAKEY/nsa-rules) - Password cracking rules and masks for hashcat that I generated from cracked passwords.
