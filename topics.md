@@ -1082,6 +1082,7 @@
 
 ## osint 
 
+- [urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy) - Username tools for penetration testing
 - [osintambition/Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
 - [BushidoUK/Ransomware-Tool-Matrix](https://github.com/BushidoUK/Ransomware-Tool-Matrix) - A resource containing all the tools each ransomware gangs uses
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -1131,6 +1132,8 @@
 
 ## others 
 
+- [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) - A collection of scripts for assessing Microsoft Azure security
+- [NetSPI/PowerHuntShares](https://github.com/NetSPI/PowerHuntShares) - PowerHuntShares is an audit script designed in inventory, analyze, and report excessive privileges configured on Active Directory domains.
 - [sud0Ru/NauthNRPC](https://github.com/sud0Ru/NauthNRPC) - Enumerate Domain  Users Without Authentication
 - [kaonashi-passwords/Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - Wordlist, rules and masks from Kaonashi project (RootedCON 2019)
 - [NotSoSecure/password_cracking_rules](https://github.com/NotSoSecure/password_cracking_rules) - One rule to crack all passwords. or atleast we hope so.
@@ -1221,7 +1224,7 @@
 - [latiotech/insecure-kubernetes-deployments](https://github.com/latiotech/insecure-kubernetes-deployments) - A full insecure kubernetes application for testing security tools
 - [col-1002/HTB-CPTS](https://github.com/col-1002/HTB-CPTS) - Most of the notes, resources and scripts I used to prepare for the HTB CPTS and "pass it the 2 time."
 - [theowni/Damn-Vulnerable-RESTaurant-API-Game](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
-- [homebrewltd/awesome-local-ai](https://github.com/homebrewltd/awesome-local-ai) - An awesome repository of local AI tools
+- [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [surajpkhetani/AutoSmuggle](https://github.com/surajpkhetani/AutoSmuggle) - Utility to craft HTML or SVG smuggled files for Red Team engagements
 - [The-OSINT-Newsletter/excalibur](https://github.com/The-OSINT-Newsletter/excalibur) - Pivot from a Twitter profile to Medium, Product Hunt, Mastodon, and more with OSINT
@@ -1344,7 +1347,7 @@
 - [Octoberfest7/TeamsPhisher](https://github.com/Octoberfest7/TeamsPhisher) - Send phishing messages and attachments to Microsoft Teams users
 - [Kitsun3Sec/Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets) - A collection of snippets of codes and commands to make your life easier!
 - [guibacellar/TEx](https://github.com/guibacellar/TEx) - Telegram Monitor
-- [p0dalirius/LDAPWordlistHarvester](https://github.com/p0dalirius/LDAPWordlistHarvester) - A tool to generate a wordlist from the information present in LDAP, in order to crack passwords of domain accounts.
+- [p0dalirius/pyLDAPWordlistHarvester](https://github.com/p0dalirius/pyLDAPWordlistHarvester) - A tool to generate a wordlist from the information present in LDAP, in order to crack passwords of domain accounts.
 - [Mazars-Tech/AD_Miner](https://github.com/Mazars-Tech/AD_Miner) - AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses
 - [moabukar/tech-vault](https://github.com/moabukar/tech-vault) - A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/)
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
@@ -1658,6 +1661,7 @@
 
 ## security 
 
+- [urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy) - Username tools for penetration testing
 - [caverav/auditforge](https://github.com/caverav/auditforge) - AuditForge is a pentest reporting application making it simple and easy to write your findings and generate a customizable report.
 - [elementsinteractive/twyn](https://github.com/elementsinteractive/twyn) - Security tool against dependency typosquatting attacks
 - [blacklanternsecurity/TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
