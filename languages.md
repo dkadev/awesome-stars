@@ -48,6 +48,7 @@
 
 ## C# # 
 
+- [Syslifters/offsec-tools](https://github.com/Syslifters/offsec-tools) - Compiled tools for internal assessments
 - [amjcyber/pwnlook](https://github.com/amjcyber/pwnlook) - An offensive postexploitation tool that will give you complete control over the Outlook desktop application and therefore to the emails configured in it.
 - [cube0x0/KrbRelay](https://github.com/cube0x0/KrbRelay) - Framework for Kerberos relaying
 - [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt) - Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
@@ -328,6 +329,7 @@
 
 ## PHP 
 
+- [Arrexel/phpbash](https://github.com/Arrexel/phpbash) - A semi-interactive PHP shell compressed into a single file.
 - [Cvar1984/sussyfinder](https://github.com/Cvar1984/sussyfinder) - Single file php webshell scanner to detect potentially malicious backdoor based on token and hash with web interface and VirusTotal integration. Subscribe to get API Key
 - [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers that keeps privacy and ease of use in mind!
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -369,6 +371,7 @@
 
 ## Python 
 
+- [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [sud0Ru/NauthNRPC](https://github.com/sud0Ru/NauthNRPC) - Enumerate Domain  Users Without Authentication
 - [Wh04m1001/DFSCoerce](https://github.com/Wh04m1001/DFSCoerce) - 
 - [ly4k/Certipy](https://github.com/ly4k/Certipy) - Tool for Active Directory Certificate Services enumeration and abuse
