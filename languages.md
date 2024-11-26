@@ -371,6 +371,7 @@
 
 ## Python 
 
+- [byt3bl33d3r/DeathStar](https://github.com/byt3bl33d3r/DeathStar) - Uses Empire's (https://github.com/BC-SECURITY/Empire) RESTful API to automate gaining Domain and/or Enterprise Admin rights in Active Directory environments using some of the most common offensive TTP
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [sud0Ru/NauthNRPC](https://github.com/sud0Ru/NauthNRPC) - Enumerate Domain  Users Without Authentication
 - [Wh04m1001/DFSCoerce](https://github.com/Wh04m1001/DFSCoerce) - 
