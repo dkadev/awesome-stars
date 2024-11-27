@@ -398,7 +398,7 @@
 
 ## cpp 
 
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - A data-hiding / steganography-like CLI tool for JPG images.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Steganography-like CLI tool for JPG images.
 - [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg) - Nidhogg is an all-in-one simple to use windows kernel rootkit.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
@@ -707,7 +707,7 @@
 - [mbrg/power-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
 - [powerexploit/Ashok](https://github.com/powerexploit/Ashok) - Ashok is a OSINT Recon Tool , a.k.a :heart_eyes:  Swiss Army knife .
 - [adeptex/whispers](https://github.com/adeptex/whispers) - Identify hardcoded secrets in static structured text (version 2)
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - A data-hiding / steganography-like CLI tool for JPG images.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Steganography-like CLI tool for JPG images.
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [AleksaMCode/Preferred-Network-List-Sniffer](https://github.com/AleksaMCode/Preferred-Network-List-Sniffer) - A reconnaissance tool for capturing and displaying SSIDs from device's Preferred Network List.
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
@@ -963,7 +963,7 @@
 
 ## mastodon 
 
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - A data-hiding / steganography-like CLI tool for JPG images.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Steganography-like CLI tool for JPG images.
 
 ## microsoft 
 
@@ -1137,6 +1137,7 @@
 
 ## others 
 
+- [decoder-it/KrbRelayEx](https://github.com/decoder-it/KrbRelayEx) - 
 - [Arrexel/phpbash](https://github.com/Arrexel/phpbash) - A semi-interactive PHP shell compressed into a single file.
 - [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) - A collection of scripts for assessing Microsoft Azure security
 - [NetSPI/PowerHuntShares](https://github.com/NetSPI/PowerHuntShares) - PowerHuntShares is an audit script designed in inventory, analyze, and report excessive privileges configured on Active Directory domains.
@@ -1251,7 +1252,7 @@
 - [Slowerzs/ThievingFox](https://github.com/Slowerzs/ThievingFox) - 
 - [JeanPeyreMesMots/osx-password-dumper](https://github.com/JeanPeyreMesMots/osx-password-dumper) - A tool to dump users's .plist on a Mac OS system and to convert them into a crackable hash
 - [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Active Directory ACL Visualizer and Explorer - who's really Domain Admin? (Commerical versions available from NetSection)
-- [MaibornWolff/SecObserve](https://github.com/MaibornWolff/SecObserve) - SecObserve is an open source vulnerability management system for software development and cloud environments. It supports a variety of open source vulnerability scanners and integrates easily into CI/
+- [MaibornWolff/SecObserve](https://github.com/MaibornWolff/SecObserve) - SecObserve is an open source vulnerability and license management system for software development teams and cloud environments. It supports a variety of open source vulnerability scanners and integrat
 - [brinhosa/apidetector](https://github.com/brinhosa/apidetector) - APIDetector: Efficiently scan for exposed Swagger endpoints across web domains and subdomains. Supports HTTP/HTTPS, multi-threading, and flexible input/output options. Ideal for API security testing.
 - [FalconForceTeam/SOAPHound](https://github.com/FalconForceTeam/SOAPHound) - SOAPHound is a custom-developed .NET data collector tool which can be used to enumerate Active Directory environments via the Active Directory Web Services (ADWS) protocol.
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
@@ -1525,7 +1526,7 @@
 
 ## privacy 
 
-- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - A data-hiding / steganography-like CLI tool for JPG images.
+- [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Steganography-like CLI tool for JPG images.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
