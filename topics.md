@@ -291,6 +291,7 @@
 
 ## bash 
 
+- [Bashfuscator/Bashfuscator](https://github.com/Bashfuscator/Bashfuscator) - A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
 - [Aegrah/PANIX](https://github.com/Aegrah/PANIX) - Customizable Linux Persistence Tool for Security Research and Detection Engineering.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
@@ -889,6 +890,7 @@
 
 ## linux 
 
+- [Bashfuscator/Bashfuscator](https://github.com/Bashfuscator/Bashfuscator) - A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Aegrah/PANIX](https://github.com/Aegrah/PANIX) - Customizable Linux Persistence Tool for Security Research and Detection Engineering.
 - [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection
@@ -1685,6 +1687,7 @@
 - [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
 - [Mixeway/Flow](https://github.com/Mixeway/Flow) - Repository containing source code of MixewayFlow service that is Swiss army knife for DevSecOps Teams
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
+- [Aegrah/PANIX](https://github.com/Aegrah/PANIX) - Customizable Linux Persistence Tool for Security Research and Detection Engineering.
 - [ANDRVV/gapcast](https://github.com/ANDRVV/gapcast) - 📡 802.11 broadcast analyzer & injector
 - [LucasFaudman/apkscan](https://github.com/LucasFaudman/apkscan) - Scan for secrets, endpoints, and other sensitive data after decompiling and deobfuscating Android files. (.apk, .xapk, .dex, .jar, .class, .smali, .zip, .aar, .arsc, .aab, .jadx.kts).
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
@@ -1802,7 +1805,6 @@
 ## shell 
 
 - [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
-- [Aegrah/PANIX](https://github.com/Aegrah/PANIX) - Customizable Linux Persistence Tool for Security Research and Detection Engineering.
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
