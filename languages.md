@@ -188,7 +188,7 @@
 - [brosck/mantra](https://github.com/brosck/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
 - [ropnop/kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing
 
@@ -282,6 +282,7 @@
 
 ## Others 
 
+- [t3l3machus/PowerShell-Obfuscation-Bible](https://github.com/t3l3machus/PowerShell-Obfuscation-Bible) - A collection of techniques, examples and a little bit of theory for manually obfuscating PowerShell scripts to achieve AV evasion, compiled for educational purposes. The contents of this repository ar
 - [kaonashi-passwords/Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - Wordlist, rules and masks from Kaonashi project (RootedCON 2019)
 - [NotSoSecure/password_cracking_rules](https://github.com/NotSoSecure/password_cracking_rules) - One rule to crack all passwords. or atleast we hope so.
 - [stealthsploit/OneRuleToRuleThemStill](https://github.com/stealthsploit/OneRuleToRuleThemStill) - A revamped and updated version of my original OneRuleToRuleThemAll hashcat rule
