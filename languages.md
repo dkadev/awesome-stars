@@ -108,7 +108,7 @@
 ## Go 
 
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
-- [BloodHoundAD/AzureHound](https://github.com/BloodHoundAD/AzureHound) - Azure Data Exporter for BloodHound
+- [SpecterOps/AzureHound](https://github.com/SpecterOps/AzureHound) - Azure Data Exporter for BloodHound
 - [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound) - Six Degrees of Domain Admin
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) - Telling tales on you for leaking secrets!
 - [lkarlslund/nifo](https://github.com/lkarlslund/nifo) - Nuke It From Orbit - remove AV/EDR with physical access
@@ -297,7 +297,7 @@
 - [psiinon/open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners) - A list of open source web security scanners
 - [insidetrust/statistically-likely-usernames](https://github.com/insidetrust/statistically-likely-usernames) - Wordlists for creating statistically likely username lists for use in password attacks and security testing
 - [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks) - A collection of Awesome Google Dorks.
-- [An0nUD4Y/Evilginx-Phishing-Infra-Setup](https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup) - Evilginx Phishing Engagement Infrastructure Setup Guide
+- [An0nUD4Y/Evilginx-Phishing-Infra-Setup](https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup) - Evilginx Phishing Infrastructure Setup Guide - Securing Evilginx and Gophish Infrastructure, Removing IOCs, Phishing TTPs
 - [wddadk/Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools) - OffSec OSINT Pentest/RedTeam Tools
 - [shreyaschavhan/advanced-sql-injection-for-awae](https://github.com/shreyaschavhan/advanced-sql-injection-for-awae) - 
 - [puzzlepeaches/awesome-password-spraying](https://github.com/puzzlepeaches/awesome-password-spraying) - Everything and anything related to password spraying
