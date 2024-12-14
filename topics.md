@@ -280,7 +280,7 @@
 
 ## azure 
 
-- [BloodHoundAD/AzureHound](https://github.com/BloodHoundAD/AzureHound) - Azure Data Exporter for BloodHound
+- [SpecterOps/AzureHound](https://github.com/SpecterOps/AzureHound) - Azure Data Exporter for BloodHound
 - [hausec/PowerZure](https://github.com/hausec/PowerZure) - PowerShell framework to assess Azure security
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [vectra-ai-research/Halberd](https://github.com/vectra-ai-research/Halberd) - Halberd : Multi-Cloud Attack Tool
@@ -611,7 +611,7 @@
 
 ## go 
 
-- [BloodHoundAD/AzureHound](https://github.com/BloodHoundAD/AzureHound) - Azure Data Exporter for BloodHound
+- [SpecterOps/AzureHound](https://github.com/SpecterOps/AzureHound) - Azure Data Exporter for BloodHound
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) - Telling tales on you for leaking secrets!
 - [nickvourd/Supernova](https://github.com/nickvourd/Supernova) - Real fucking shellcode encryptor & obfuscator tool
 - [EwenQuim/entropy](https://github.com/EwenQuim/entropy) - Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.
@@ -1225,7 +1225,7 @@
 - [p0dalirius/smbclient-ng](https://github.com/p0dalirius/smbclient-ng) - smbclient-ng, a fast and user friendly way to interact with SMB shares.
 - [mrd0x/PWA-Phishing](https://github.com/mrd0x/PWA-Phishing) - 
 - [Diverto/IPPrintC2](https://github.com/Diverto/IPPrintC2) - PoC for using MS Windows printers for persistence / command and control via Internet Printing
-- [An0nUD4Y/Evilginx-Phishing-Infra-Setup](https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup) - Evilginx Phishing Engagement Infrastructure Setup Guide
+- [An0nUD4Y/Evilginx-Phishing-Infra-Setup](https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup) - Evilginx Phishing Infrastructure Setup Guide - Securing Evilginx and Gophish Infrastructure, Removing IOCs, Phishing TTPs
 - [login-securite/conpass](https://github.com/login-securite/conpass) - Continuous password spraying tool
 - [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data
 - [RedByte1337/GraphSpy](https://github.com/RedByte1337/GraphSpy) - Initial Access and Post-Exploitation Tool for AAD and O365 with a browser-based GUI
