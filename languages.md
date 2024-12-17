@@ -650,6 +650,7 @@
 
 ## Shell 
 
+- [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) - A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [NSAKEY/nsa-rules](https://github.com/NSAKEY/nsa-rules) - Password cracking rules and masks for hashcat that I generated from cracked passwords.
 - [attacksurge/ax](https://github.com/attacksurge/ax) - Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our eight supported cloud providers!
