@@ -370,6 +370,7 @@
 
 ## cli 
 
+- [mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli) - A super fast CLI tool to decode and encode JWTs built in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [EwenQuim/entropy](https://github.com/EwenQuim/entropy) - Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
@@ -883,6 +884,7 @@
 
 ## json 
 
+- [mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli) - A super fast CLI tool to decode and encode JWTs built in Rust
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [ozlerhakan/mongodb-json-files](https://github.com/ozlerhakan/mongodb-json-files) - :package: A curated list of JSON / BSON datasets from the web in order to practice / use in MongoDB
@@ -1701,6 +1703,7 @@
 
 ## rust 
 
+- [mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli) - A super fast CLI tool to decode and encode JWTs built in Rust
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
