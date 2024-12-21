@@ -311,6 +311,7 @@
 
 ## bugbounty 
 
+- [vincentcox/bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) - Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.
 - [shelld3v/aquatone](https://github.com/shelld3v/aquatone) - A Tool for Domain Flyovers
 - [p0dalirius/Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques) - Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
@@ -1169,6 +1170,7 @@
 
 ## others 
 
+- [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
 - [xtiankisutsa/awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF) - This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most of them are android based due to the popularity of the platform.
 - [ByteHackr/AwesomeMobilePentest](https://github.com/ByteHackr/AwesomeMobilePentest) - Awesome Mobile Application Penetration Testing Cheat Sheet
 - [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) - A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
@@ -1718,6 +1720,8 @@
 
 ## security 
 
+- [kh4sh3i/WAF-Bypass](https://github.com/kh4sh3i/WAF-Bypass) - 🔥 Web application firewalls (WAF) bypass
+- [vincentcox/bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) - Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.
 - [shelld3v/aquatone](https://github.com/shelld3v/aquatone) - A Tool for Domain Flyovers
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [hausec/PowerZure](https://github.com/hausec/PowerZure) - PowerShell framework to assess Azure security
