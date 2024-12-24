@@ -49,6 +49,7 @@
 
 ## C# # 
 
+- [logangoins/Krueger](https://github.com/logangoins/Krueger) - Proof of Concept (PoC) .NET tool for remotely killing EDR with WDAC
 - [decoder-it/KrbRelayEx](https://github.com/decoder-it/KrbRelayEx) - 
 - [Syslifters/offsec-tools](https://github.com/Syslifters/offsec-tools) - Compiled tools for internal assessments
 - [amjcyber/pwnlook](https://github.com/amjcyber/pwnlook) - An offensive postexploitation tool that will give you complete control over the Outlook desktop application and therefore to the emails configured in it.
@@ -345,7 +346,6 @@
 ## PHP 
 
 - [Arrexel/phpbash](https://github.com/Arrexel/phpbash) - A semi-interactive PHP shell compressed into a single file.
-- [Cvar1984/sussyfinder](https://github.com/Cvar1984/sussyfinder) - Single file php webshell scanner to detect potentially malicious backdoor based on token and hash with web interface and VirusTotal integration. Subscribe to get API Key
 - [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers that keeps privacy and ease of use in mind!
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [globocom/secDevLabs](https://github.com/globocom/secDevLabs) - A laboratory for learning secure web and mobile development in a practical manner.
@@ -453,7 +453,6 @@
 - [OWASP/OFFAT](https://github.com/OWASP/OFFAT) - The OWASP OFFAT tool autonomously assesses your API for prevalent vulnerabilities, though full compatibility with OAS v3 is pending. The project remains a work in progress, continuously evolving towar
 - [bats3c/darkarmour](https://github.com/bats3c/darkarmour) - Windows AV Evasion
 - [latiotech/insecure-kubernetes-deployments](https://github.com/latiotech/insecure-kubernetes-deployments) - A full insecure kubernetes application for testing security tools
-- [theowni/Damn-Vulnerable-RESTaurant-API-Game](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
 - [chiasmod0n/chiasmodon](https://github.com/chiasmod0n/chiasmodon) - Chiasmodon is an OSINT  tool designed to assist in the process of gathering information about a target domain. Its primary functionality revolves around searching for domain-related data, including do
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [Geeoon/DNS-Tunnel-Keylogger](https://github.com/Geeoon/DNS-Tunnel-Keylogger) - Keylogging server and client that uses DNS tunneling/exfiltration to transmit keystrokes through firewalls.
@@ -463,7 +462,6 @@
 - [luijait/DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your trad
 - [JoelGMSec/LeakSearch](https://github.com/JoelGMSec/LeakSearch) - Search & Parse Password Leaks
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath) - Inspect and refine PATH environment variable on Windows, Linux and MacOS.
-- [erev0s/VAmPI](https://github.com/erev0s/VAmPI) - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
 - [dvcoolarun/web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀
 - [UndeadSec/SwaggerSpy](https://github.com/UndeadSec/SwaggerSpy) - Automated OSINT on SwaggerHub
 - [chaudharyarjun/RepoReaper](https://github.com/chaudharyarjun/RepoReaper) - RepoReaper is an automated tool crafted to meticulously scan and identify exposed .git repositories within specified domains and their subdomains.
@@ -706,7 +704,6 @@
 
 ## Swift 
 
-- [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for ChatGPT, Claude, xAI, Google Gemini, Ollama and compatible API services
 - [r3ggi/electroniz3r](https://github.com/r3ggi/electroniz3r) - Take over macOS Electron apps' TCC permissions
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 
