@@ -86,7 +86,7 @@
 - [CleasbyCode/jdvrif](https://github.com/CleasbyCode/jdvrif) - Steganography CLI / Web tool for concealing files within JPG images.
 - [AlteredSecurity/Disable-TamperProtection](https://github.com/AlteredSecurity/Disable-TamperProtection) - A POC to disable TamperProtection and other Defender / MDE components
 - [Meckazin/ChromeKatz](https://github.com/Meckazin/ChromeKatz) - Dump cookies and credentials directly from Chrome/Edge process memory
-- [Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - Little user-mode AV/EDR evasion lab for training & learning purposes
+- [Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - AV/EDR Evasion Lab for Training & Learning Purposes
 - [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg) - Nidhogg is an all-in-one simple to use windows kernel rootkit.
 - [decoder-it/LocalPotato](https://github.com/decoder-it/LocalPotato) - 
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
