@@ -1146,6 +1146,7 @@
 
 ## others 
 
+- [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [logangoins/Krueger](https://github.com/logangoins/Krueger) - Proof of Concept (PoC) .NET tool for remotely killing EDR with WDAC
 - [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
 - [xtiankisutsa/awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF) - This is a curated list of mobile based CTFs, write-ups and vulnerable apps. Most of them are android based due to the popularity of the platform.
@@ -1811,6 +1812,7 @@
 
 ## security-tools 
 
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [vincentcox/bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) - Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.
 - [shelld3v/aquatone](https://github.com/shelld3v/aquatone) - A Tool for Domain Flyovers
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -2048,6 +2050,7 @@
 
 ## windows 
 
+- [ohpe/juicy-potato](https://github.com/ohpe/juicy-potato) - A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
 - [hausec/PowerZure](https://github.com/hausec/PowerZure) - PowerShell framework to assess Azure security
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [emrekybs/nim-shell](https://github.com/emrekybs/nim-shell) - Reverse shell that can bypass windows defender detection
