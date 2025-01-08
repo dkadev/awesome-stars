@@ -499,7 +499,7 @@
 - [tcosolutions/betterscan](https://github.com/tcosolutions/betterscan) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan
 - [0xNslabs/CanaryTokenScanner](https://github.com/0xNslabs/CanaryTokenScanner) - Script designed to identify CanaryTokens within Microsoft Office documents and Acrobat Reader PDF (docx, xlsx, pptx, pdf).
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) - Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [gabrielsoltz/metahub](https://github.com/gabrielsoltz/metahub) - MetaHub is an automated contextual security findings enrichment and impact evaluation tool for vulnerability management.
 - [helviojunior/knowsmore](https://github.com/helviojunior/knowsmore) - KnowsMore is a swiss army knife tool for pentesting Microsoft Active Directory (NTLM Hashes, BloodHound, NTDS and DCSync).
 - [ntoskernel/deepsecrets](https://github.com/ntoskernel/deepsecrets) - Secrets scanner that understands code
@@ -587,7 +587,6 @@
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
-- [morpheuslord/GPT_Vuln-analyzer](https://github.com/morpheuslord/GPT_Vuln-analyzer) - Uses ChatGPT API, Bard API, and Llama2, Python-Nmap, DNS Recon, PCAP and JWT recon modules and uses the GPT3 model to create vulnerability reports based on Nmap scan data, and DNS scan information. It
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 200 common, vulnerable components (openssl, libpng, libxml2, expat and others), or
 - [sAjibuu/Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - A simple tool for bypassing file upload restrictions.
