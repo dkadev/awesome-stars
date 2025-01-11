@@ -1138,6 +1138,7 @@
 
 ## others 
 
+- [ZephrFish/QoL-BOFs](https://github.com/ZephrFish/QoL-BOFs) - Curated list of public Beacon Object Files(BOFs) build in as submodules for easy cloning
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [logangoins/Krueger](https://github.com/logangoins/Krueger) - Proof of Concept (PoC) .NET tool for remotely killing EDR with WDAC
 - [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
