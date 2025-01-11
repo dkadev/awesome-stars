@@ -39,6 +39,7 @@
 
 ## C 
 
+- [ZephrFish/QoL-BOFs](https://github.com/ZephrFish/QoL-BOFs) - Curated list of public Beacon Object Files(BOFs) build in as submodules for easy cloning
 - [topotam/PetitPotam](https://github.com/topotam/PetitPotam) - PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer) - Abusing impersonation privileges through the "Printer Bug"
