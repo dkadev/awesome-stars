@@ -194,7 +194,7 @@
 
 ## api 
 
-- [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers that keeps privacy and ease of use in mind!
+- [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers or localhosts that keeps privacy and ease of use in mind!
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform
 - [brosck/mantra](https://github.com/brosck/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
 
@@ -415,7 +415,7 @@
 ## css 
 
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first, open-source library of UI components that works as a standalone or as a Tailwind CSS plugin. It is compatible with UIkit 3. The design is influenced by shadcn/ui.
-- [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers that keeps privacy and ease of use in mind!
+- [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers or localhosts that keeps privacy and ease of use in mind!
 - [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 
@@ -1505,7 +1505,7 @@
 
 ## php 
 
-- [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers that keeps privacy and ease of use in mind!
+- [adegans/Goosle](https://github.com/adegans/Goosle) - The best Meta Search engine running on simple PHP servers or localhosts that keeps privacy and ease of use in mind!
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
