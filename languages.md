@@ -245,7 +245,6 @@
 - [nowak0x01/JoomSploit](https://github.com/nowak0x01/JoomSploit) - JoomSploit is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in Joomla CMS.
 - [nowak0x01/PrestaXSRF](https://github.com/nowak0x01/PrestaXSRF) - PrestaXSRF is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in PrestaShop E-Commerce
 - [nowak0x01/Drupalwned](https://github.com/nowak0x01/Drupalwned) - Drupalwned is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in Drupal CMS.
-- [devXprite/infoooze](https://github.com/devXprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
 - [factionsecurity/faction](https://github.com/factionsecurity/faction) - Pen Test Report Generation and Assessment Collaboration
 - [R-s0n/ars0n-framework](https://github.com/R-s0n/ars0n-framework) - A Modern Framework for Bug Bounty Hunting
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -363,6 +362,7 @@
 
 ## PowerShell 
 
+- [Jean-Francois-C/Windows-Penetration-Testing](https://github.com/Jean-Francois-C/Windows-Penetration-Testing) - Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that I find useful during internal penetration tests and assumed breach exercises (red teaming)
 - [asterictnl-lvdw/M365SAT](https://github.com/asterictnl-lvdw/M365SAT) - Microsoft 365 Security Assessment Tool - A Easy-To-Use Microsoft 365 Security Assessment Tool
 - [hausec/PowerZure](https://github.com/hausec/PowerZure) - PowerShell framework to assess Azure security
 - [danielbohannon/Invoke-DOSfuscation](https://github.com/danielbohannon/Invoke-DOSfuscation) - Cmd.exe Command Obfuscation Generator & Detection Test Harness
@@ -434,7 +434,6 @@
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [LucasFaudman/apkscan](https://github.com/LucasFaudman/apkscan) - Scan for secrets, endpoints, and other sensitive data after decompiling and deobfuscating Android files. (.apk, .xapk, .dex, .jar, .class, .smali, .zip, .aar, .arsc, .aab, .jadx.kts).
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
-- [powerexploit/Ashok](https://github.com/powerexploit/Ashok) - Ashok is a OSINT Recon Tool , a.k.a :heart_eyes:  Swiss Army knife .
 - [domain-protect/domain-protect-gcp](https://github.com/domain-protect/domain-protect-gcp) - Protect against subdomain takeover
 - [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [sosdave/KeyTabExtract](https://github.com/sosdave/KeyTabExtract) - Extracts Key Values from .keytab files
@@ -474,7 +473,6 @@
 - [DanMcInerney/net-creds](https://github.com/DanMcInerney/net-creds) - Sniffs sensitive data from interface or pcap
 - [ShellCode33/CredSLayer](https://github.com/ShellCode33/CredSLayer) - Extract credentials and other useful info from network captures
 - [lgandx/PCredz](https://github.com/lgandx/PCredz) - This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
-- [sikumy/ethical-hacking](https://github.com/sikumy/ethical-hacking) - Personal Hacking Playground.
 - [justakazh/DockerExploit](https://github.com/justakazh/DockerExploit) - Docker Remote API Scanner and Exploit
 - [spyboy-productions/Valid8Proxy](https://github.com/spyboy-productions/Valid8Proxy) - Tool designed for fetching, validating, and storing working proxies.
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
@@ -676,11 +674,9 @@
 - [emrekybs/AD-AssessmentKit](https://github.com/emrekybs/AD-AssessmentKit) - Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, 
 - [psbelin/ip_widget](https://github.com/psbelin/ip_widget) - Taskbar IP widget for kali linux (or any distro running XFCE)
 - [rootcathacking/catspin](https://github.com/rootcathacking/catspin) - Catspin rotates the IP address of HTTP requests making IP based blocks or slowdown measures ineffective. It is based on AWS API Gateway and deployed via AWS Cloudformation.
-- [SherlockLinux/SherlockLinux](https://github.com/SherlockLinux/SherlockLinux) - Distribución para OSINT basada en Debian 12 / OSINT Distribution based in Debian 12
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [Trevohack/DynastyPersist](https://github.com/Trevohack/DynastyPersist) - A Linux persistence tool!
 - [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
-- [foozzi/discoshell](https://github.com/foozzi/discoshell) - a simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 - [Orange-Cyberdefense/LinikatzV2](https://github.com/Orange-Cyberdefense/LinikatzV2) - linikatz is a tool to attack AD on UNIX
 - [govolution/avet](https://github.com/govolution/avet) - AntiVirus Evasion Tool
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, a
