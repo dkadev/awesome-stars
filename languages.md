@@ -395,6 +395,7 @@
 
 ## Python 
 
+- [clr2of8/DPAT](https://github.com/clr2of8/DPAT) - Domain Password Audit Tool for Pentesters
 - [dreadnode/burpference](https://github.com/dreadnode/burpference) - A research project to add some brrrrrr to Burp
 - [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
