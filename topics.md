@@ -449,7 +449,7 @@
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [dragonked2/Egyscan](https://github.com/dragonked2/Egyscan) - Egyscan The Best web vulnerability scanner; it's a multifaceted security powerhouse designed to fortify your web applications against malicious threats. Let's delve into the tasks and functions that m
 - [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.
-- [lewiswigmore/Virus.xcheck](https://github.com/lewiswigmore/Virus.xcheck) - Virus.xcheck is a Python tool designed to bulk verify the existence of file hashes in the Virus Exchange database and fetch download URLs for malware analysis.
+- [lewiswigmore/Virus.xcheck](https://github.com/lewiswigmore/Virus.xcheck) - Virus.xcheck is a Python tool designed to bulk verify the existence of file hashes in the Virus Exchange database and fetch download URLs for malware analysis. (Currently not supported)
 - [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg) - Nidhogg is an all-in-one simple to use windows kernel rootkit.
 - [HalilDeniz/NetworkAssessment](https://github.com/HalilDeniz/NetworkAssessment) - NetworkAssessment: Network Compromise Assessment Tool
 - [HalilDeniz/TrafficWatch](https://github.com/HalilDeniz/TrafficWatch) - TrafficWatch, a packet sniffer tool, allows you to monitor and analyze network traffic from PCAP files
@@ -1137,6 +1137,7 @@
 
 ## others 
 
+- [clr2of8/DPAT](https://github.com/clr2of8/DPAT) - Domain Password Audit Tool for Pentesters
 - [Jean-Francois-C/Windows-Penetration-Testing](https://github.com/Jean-Francois-C/Windows-Penetration-Testing) - Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that I find useful during internal penetration tests and assumed breach exercises (red teaming)
 - [ZephrFish/QoL-BOFs](https://github.com/ZephrFish/QoL-BOFs) - Curated list of public Beacon Object Files(BOFs) build in as submodules for easy cloning
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
@@ -1217,7 +1218,7 @@
 - [tylerdotrar/Unfuck-Windows10](https://github.com/tylerdotrar/Unfuck-Windows10) - Script meant to debloat Windows 10, enhance privacy, and improve performance & the overall user experience.
 - [tylerdotrar/SigmaPotato](https://github.com/tylerdotrar/SigmaPotato) - SeImpersonate privilege escalation tool for Windows 8 - 11 and Windows Server 2012 - 2022 with extensive PowerShell and .NET reflection support.
 - [AlteredSecurity/Disable-TamperProtection](https://github.com/AlteredSecurity/Disable-TamperProtection) - A POC to disable TamperProtection and other Defender / MDE components
-- [huntandhackett/PassiveAggression](https://github.com/huntandhackett/PassiveAggression) - Source code and examples for PassiveAggression.
+- [huntandhackett/PassiveAggression](https://github.com/huntandhackett/PassiveAggression) - Source code and examples for PassiveAggression
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [skelsec/pypykatz](https://github.com/skelsec/pypykatz) - Mimikatz implementation in pure Python
 - [Azure/Stormspotter](https://github.com/Azure/Stormspotter) - Azure Red Team tool for graphing Azure and Azure Active Directory objects
@@ -1296,7 +1297,6 @@
 - [ipSlav/DirtyCLR](https://github.com/ipSlav/DirtyCLR) - An App Domain Manager Injection DLL PoC on steroids
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
 - [waf-bypass-maker/waf-community-bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses) - 
-- [Siguza/ios-resources](https://github.com/Siguza/ios-resources) - Useful resources for iOS hacking
 - [onhexgroup/Conferences](https://github.com/onhexgroup/Conferences) - Conference presentation slides
 - [akamai/Invoke-DHCPCheckup](https://github.com/akamai/Invoke-DHCPCheckup) - 
 - [candiddev/rot](https://github.com/candiddev/rot) - Secure Secrets Management for the Modern Sysadmin
@@ -1574,7 +1574,7 @@
 - [latiotech/LAST](https://github.com/latiotech/LAST) - Use AI to Scan Your Code from the Command Line for security and code smells. Bring your own keys. Supports OpenAI and Gemini
 - [oppsec/juumla](https://github.com/oppsec/juumla) - 🦁 Juumla is a python tool created to identify Joomla version, scan for vulnerabilities and sensitive files
 - [dragonked2/Egyscan](https://github.com/dragonked2/Egyscan) - Egyscan The Best web vulnerability scanner; it's a multifaceted security powerhouse designed to fortify your web applications against malicious threats. Let's delve into the tasks and functions that m
-- [lewiswigmore/Virus.xcheck](https://github.com/lewiswigmore/Virus.xcheck) - Virus.xcheck is a Python tool designed to bulk verify the existence of file hashes in the Virus Exchange database and fetch download URLs for malware analysis.
+- [lewiswigmore/Virus.xcheck](https://github.com/lewiswigmore/Virus.xcheck) - Virus.xcheck is a Python tool designed to bulk verify the existence of file hashes in the Virus Exchange database and fetch download URLs for malware analysis. (Currently not supported)
 - [JoshuaKasa/van-gonography](https://github.com/JoshuaKasa/van-gonography) - Hide 🕵️‍♂️ your files of any type inside a image of your choice using steganography
 - [bellingcat/wayback-google-analytics](https://github.com/bellingcat/wayback-google-analytics) - A lightweight tool for scraping current and historic Google Analytics data
 - [Alb-310/Geogramint](https://github.com/Alb-310/Geogramint) - An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
@@ -1612,7 +1612,7 @@
 - [N0rz3/Phunter](https://github.com/N0rz3/Phunter) - Phunter is an osint tool allowing you to find various information via a phone number 🔎📞
 - [HalilDeniz/NetworkSherlock](https://github.com/HalilDeniz/NetworkSherlock) - NetworkSherlock: powerful and flexible port scanning tool With Shodan
 - [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.
-- [lewiswigmore/Virus.xcheck](https://github.com/lewiswigmore/Virus.xcheck) - Virus.xcheck is a Python tool designed to bulk verify the existence of file hashes in the Virus Exchange database and fetch download URLs for malware analysis.
+- [lewiswigmore/Virus.xcheck](https://github.com/lewiswigmore/Virus.xcheck) - Virus.xcheck is a Python tool designed to bulk verify the existence of file hashes in the Virus Exchange database and fetch download URLs for malware analysis. (Currently not supported)
 - [HalilDeniz/TrafficWatch](https://github.com/HalilDeniz/TrafficWatch) - TrafficWatch, a packet sniffer tool, allows you to monitor and analyze network traffic from PCAP files
 - [HalilDeniz/PathFinder](https://github.com/HalilDeniz/PathFinder) - Web Path Finder
 - [m8sec/CrossLinked](https://github.com/m8sec/CrossLinked) - LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
