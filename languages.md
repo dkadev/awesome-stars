@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [bitquark/shortscan](https://github.com/bitquark/shortscan) - An IIS short filename enumeration tool
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) - 🔍 OSINT tool for searching people's digital footprint and leaked passwords across various social networks, written in Go.
