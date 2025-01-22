@@ -396,6 +396,8 @@
 
 ## Python 
 
+- [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [clr2of8/DPAT](https://github.com/clr2of8/DPAT) - Domain Password Audit Tool for Pentesters
 - [dreadnode/burpference](https://github.com/dreadnode/burpference) - A research project to add some brrrrrr to Burp
 - [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
