@@ -224,6 +224,7 @@
 
 ## Java 
 
+- [mindedsecurity/semgrep-rules-android-security](https://github.com/mindedsecurity/semgrep-rules-android-security) - A collection of Semgrep rules derived from the OWASP MASTG specifically for Android applications.
 - [snyk/socketsleuth](https://github.com/snyk/socketsleuth) - Burp Extension to add additional functionality for pentesting websocket based applications
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [Mixeway/Flow](https://github.com/Mixeway/Flow) - Repository containing source code of MixewayFlow service that is Swiss army knife for DevSecOps Teams
@@ -401,6 +402,8 @@
 
 ## Python 
 
+- [sc0tfree/updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
+- [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 - [bitsadmin/wesng](https://github.com/bitsadmin/wesng) - Windows Exploit Suggester - Next Generation
 - [Tw1sm/PySQLRecon](https://github.com/Tw1sm/PySQLRecon) - Offensive MSSQL toolkit written in Python, based off SQLRecon
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
@@ -716,6 +719,7 @@
 
 ## TypeScript 
 
+- [relative/synchrony](https://github.com/relative/synchrony) - javascript-obfuscator cleaner & deobfuscator
 - [caverav/auditforge](https://github.com/caverav/auditforge) - AuditForge is a pentest reporting application making it simple and easy to write your findings and generate a customizable report.
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
