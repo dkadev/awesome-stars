@@ -12,7 +12,6 @@
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
-- [HCL](#hcl)
 - [HTML](#html)
 - [Inno Setup](#inno-setup)
 - [Java](#java)
@@ -127,7 +126,6 @@
 - [hotnops/apeman](https://github.com/hotnops/apeman) - AWS Attack Path Management Tool - Walking on the Moon
 - [EwenQuim/entropy](https://github.com/EwenQuim/entropy) - Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.
 - [ajilach/clamav-rest](https://github.com/ajilach/clamav-rest) - ClamAV virus/malware scanner with REST API
-- [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [EgeBalci/sgn](https://github.com/EgeBalci/sgn) - Shikata ga nai (仕方がない) encoder ported into go with several improvements
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [activecm/rita](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
@@ -198,10 +196,6 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
 - [ropnop/kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing
-
-## HCL 
-
-- [moabukar/tech-vault](https://github.com/moabukar/tech-vault) - A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/)
 
 ## HTML 
 
@@ -390,7 +384,6 @@
 - [gustanini/PowerTools](https://github.com/gustanini/PowerTools) - Powershell tools used for Red Team / Pentesting.
 - [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) - OSCP Cheat Sheet
 - [0xDEADFED5/ps_tiny11](https://github.com/0xDEADFED5/ps_tiny11) - This script creates a trimmed-down Windows 11 image, based on tiny11builder
-- [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
 - [The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec) - A PowerShell tool that takes strong inspiration from CrackMapExec / NetExec
 - [joeavanzato/Trawler](https://github.com/joeavanzato/Trawler) - PowerShell script helping Incident Responders discover potential adversary persistence mechanisms.
@@ -402,6 +395,7 @@
 
 ## Python 
 
+- [quentinhardy/odat](https://github.com/quentinhardy/odat) - ODAT: Oracle Database Attacking Tool
 - [sc0tfree/updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 - [bitsadmin/wesng](https://github.com/bitsadmin/wesng) - Windows Exploit Suggester - Next Generation
@@ -681,7 +675,6 @@
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [JeanPeyreMesMots/osx-password-dumper](https://github.com/JeanPeyreMesMots/osx-password-dumper) - A tool to dump users's .plist on a Mac OS system and to convert them into a crackable hash
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
-- [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [gbiagomba/Sherlock](https://github.com/gbiagomba/Sherlock) - This script is designed to help expedite a web application assessment by automating some of the assessment steps (e.g., running nmap, sublist3r, metasploit, etc.)
 - [trickest/inventory](https://github.com/trickest/inventory) - Asset inventory of over 800 public bug bounty programs.
 - [vm32/Digital-Forensics-Script-for-Linux](https://github.com/vm32/Digital-Forensics-Script-for-Linux) - Advanced Bash script designed for conducting digital forensics on Linux systems
