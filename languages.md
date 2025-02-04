@@ -289,6 +289,7 @@
 
 ## Others 
 
+- [eMVee-NL/MindMap](https://github.com/eMVee-NL/MindMap) - This is a collection of some of mine mindmaps abount pentesting created with Obsidian.
 - [fardeen-ahmed/Bug-bounty-Writeups](https://github.com/fardeen-ahmed/Bug-bounty-Writeups) - Repository of Bug-Bounty Writeups
 - [kh4sh3i/WAF-Bypass](https://github.com/kh4sh3i/WAF-Bypass) - 🔥 Web application firewalls (WAF) bypass
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
