@@ -1137,6 +1137,7 @@
 
 ## others 
 
+- [CravateRouge/bloodyAD](https://github.com/CravateRouge/bloodyAD) - BloodyAD is an Active Directory Privilege Escalation Framework
 - [snoopysecurity/awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions
 - [eMVee-NL/MindMap](https://github.com/eMVee-NL/MindMap) - This is a collection of some of mine mindmaps abount pentesting created with Obsidian.
 - [quentinhardy/odat](https://github.com/quentinhardy/odat) - ODAT: Oracle Database Attacking Tool
