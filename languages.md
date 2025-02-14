@@ -48,6 +48,7 @@
 
 ## C# # 
 
+- [GhostPack/Certify](https://github.com/GhostPack/Certify) - Active Directory certificate abuse.
 - [logangoins/Krueger](https://github.com/logangoins/Krueger) - Proof of Concept (PoC) .NET tool for remotely killing EDR with WDAC
 - [decoder-it/KrbRelayEx](https://github.com/decoder-it/KrbRelayEx) - 
 - [Syslifters/offsec-tools](https://github.com/Syslifters/offsec-tools) - Compiled tools for internal assessments
@@ -109,6 +110,7 @@
 
 ## Go 
 
+- [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
 - [D3Ext/Hooka](https://github.com/D3Ext/Hooka) - Shellcode loader generator with multiples features
 - [bitquark/shortscan](https://github.com/bitquark/shortscan) - An IIS short filename enumeration tool
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
@@ -255,7 +257,7 @@
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - A full stack web application that combines many tools and services for security analysts into a single tool.
-- [Mazars-Tech/AD_Miner](https://github.com/Mazars-Tech/AD_Miner) - AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses
+- [AD-Security/AD_Miner](https://github.com/AD-Security/AD_Miner) - AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses
 - [D00Movenok/HTMLSmuggler](https://github.com/D00Movenok/HTMLSmuggler) - ✉️ HTML Smuggling generator&obfuscator for your Red Team operations
 - [redeye-framework/Redeye](https://github.com/redeye-framework/Redeye) - Redeye is a tool intended to help you manage your data during a pentest operation
 - [DataDog/HASH](https://github.com/DataDog/HASH) - HASH (HTTP Agnostic Software Honeypot)
@@ -365,6 +367,7 @@
 
 ## PowerShell 
 
+- [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
 - [itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck) - Privilege Escalation Enumeration Script for Windows
 - [Jean-Francois-C/Windows-Penetration-Testing](https://github.com/Jean-Francois-C/Windows-Penetration-Testing) - Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that I find useful during internal penetration tests and assumed breach exercises (red teaming)
 - [asterictnl-lvdw/M365SAT](https://github.com/asterictnl-lvdw/M365SAT) - Microsoft 365 Security Assessment Tool - A Easy-To-Use Microsoft 365 Security Assessment Tool
@@ -397,6 +400,7 @@
 
 ## Python 
 
+- [dirkjanm/PKINITtools](https://github.com/dirkjanm/PKINITtools) - Tools for Kerberos PKINIT and relaying to AD CS
 - [gehaxelt/Python-dsstore](https://github.com/gehaxelt/Python-dsstore) - A library for parsing .DS_Store files and extracting file names
 - [CravateRouge/bloodyAD](https://github.com/CravateRouge/bloodyAD) - BloodyAD is an Active Directory Privilege Escalation Framework
 - [quentinhardy/odat](https://github.com/quentinhardy/odat) - ODAT: Oracle Database Attacking Tool
@@ -508,7 +512,7 @@
 - [AleksaMCode/Preferred-Network-List-Sniffer](https://github.com/AleksaMCode/Preferred-Network-List-Sniffer) - A reconnaissance tool for capturing and displaying SSIDs from device's Preferred Network List.
 - [WithSecureLabs/damn-vulnerable-llm-agent](https://github.com/WithSecureLabs/damn-vulnerable-llm-agent) - 
 - [tcosolutions/betterscan](https://github.com/tcosolutions/betterscan) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan
-- [0xNslabs/CanaryTokenScanner](https://github.com/0xNslabs/CanaryTokenScanner) - Script designed to identify CanaryTokens within Microsoft Office documents and Acrobat Reader PDF (docx, xlsx, pptx, pdf).
+- [0xNslabs/CanaryTokenScanner](https://github.com/0xNslabs/CanaryTokenScanner) - Detects CanaryTokens in Office docs and PDFs (docx, xlsx, pptx, pdf) without triggering alerts.
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) - Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [gabrielsoltz/metahub](https://github.com/gabrielsoltz/metahub) - MetaHub is an automated contextual security findings enrichment and impact evaluation tool for vulnerability management.
