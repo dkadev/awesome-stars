@@ -116,7 +116,6 @@
 - [privacy](#privacy)
 - [python](#python)
 - [python3](#python3)
-- [qt](#qt)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [rest-api](#rest-api)
@@ -210,6 +209,7 @@
 
 ## automation 
 
+- [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [securityjoes/MasterParser](https://github.com/securityjoes/MasterParser) - MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux logs
 - [dvcoolarun/web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀
@@ -465,7 +465,6 @@
 - [Fundacio-i2CAT/InfoHound](https://github.com/Fundacio-i2CAT/InfoHound) - InfoHound is an OSINT to extract a large amount of data given a web domain name.
 - [D00Movenok/HTMLSmuggler](https://github.com/D00Movenok/HTMLSmuggler) - ✉️ HTML Smuggling generator&obfuscator for your Red Team operations
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
-- [3nock/OTE](https://github.com/3nock/OTE) - OSINT Template Engine
 - [Fadi002/unshackle](https://github.com/Fadi002/unshackle) - Open-source tool to bypass windows and linux passwords from bootable usb
 - [Zeus-Labs/ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud) - Open Source Cloud Security
 - [zdhenard42/SOC-Multitool](https://github.com/zdhenard42/SOC-Multitool) - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
@@ -604,6 +603,7 @@
 
 ## go 
 
+- [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
 - [SpecterOps/AzureHound](https://github.com/SpecterOps/AzureHound) - Azure Data Exporter for BloodHound
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) - Telling tales on you for leaking secrets!
 - [nickvourd/Supernova](https://github.com/nickvourd/Supernova) - Real fucking shellcode encryptor & obfuscator tool
@@ -700,7 +700,6 @@
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
-- [3nock/OTE](https://github.com/3nock/OTE) - OSINT Template Engine
 - [Fadi002/unshackle](https://github.com/Fadi002/unshackle) - Open-source tool to bypass windows and linux passwords from bootable usb
 - [PhoenixC2/PhoenixC2](https://github.com/PhoenixC2/PhoenixC2) - Command & Control-Framework created for collaboration in python3
 - [brosck/mantra](https://github.com/brosck/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
@@ -1127,7 +1126,6 @@
 - [KawaCoder/GhostRecon](https://github.com/KawaCoder/GhostRecon) - Popular OSINT framework for online investigations.
 - [Fundacio-i2CAT/InfoHound](https://github.com/Fundacio-i2CAT/InfoHound) - InfoHound is an OSINT to extract a large amount of data given a web domain name.
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
-- [3nock/OTE](https://github.com/3nock/OTE) - OSINT Template Engine
 - [jakecreps/poastal](https://github.com/jakecreps/poastal) - Poastal - the Email OSINT tool
 - [j3ssie/metabigor](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
@@ -1137,6 +1135,9 @@
 
 ## others 
 
+- [GhostPack/Certify](https://github.com/GhostPack/Certify) - Active Directory certificate abuse.
+- [dirkjanm/PKINITtools](https://github.com/dirkjanm/PKINITtools) - Tools for Kerberos PKINIT and relaying to AD CS
+- [gehaxelt/Python-dsstore](https://github.com/gehaxelt/Python-dsstore) - A library for parsing .DS_Store files and extracting file names
 - [CravateRouge/bloodyAD](https://github.com/CravateRouge/bloodyAD) - BloodyAD is an Active Directory Privilege Escalation Framework
 - [snoopysecurity/awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions
 - [eMVee-NL/MindMap](https://github.com/eMVee-NL/MindMap) - This is a collection of some of mine mindmaps abount pentesting created with Obsidian.
@@ -1287,7 +1288,7 @@
 - [WithSecureLabs/damn-vulnerable-llm-agent](https://github.com/WithSecureLabs/damn-vulnerable-llm-agent) - 
 - [splunk/ShellSweep](https://github.com/splunk/ShellSweep) - ShellSweeping the evil.
 - [BishopFox/sj](https://github.com/BishopFox/sj) - A tool for auditing endpoints defined in exposed (Swagger/OpenAPI) definition files.
-- [0xNslabs/CanaryTokenScanner](https://github.com/0xNslabs/CanaryTokenScanner) - Script designed to identify CanaryTokens within Microsoft Office documents and Acrobat Reader PDF (docx, xlsx, pptx, pdf).
+- [0xNslabs/CanaryTokenScanner](https://github.com/0xNslabs/CanaryTokenScanner) - Detects CanaryTokens in Office docs and PDFs (docx, xlsx, pptx, pdf) without triggering alerts.
 - [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [BC-SECURITY/Moriarty](https://github.com/BC-SECURITY/Moriarty) - Moriarty is designed to enumerate missing KBs, detect various vulnerabilities, and suggest potential exploits for Privilege Escalation in Windows environments.
 - [Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - AV/EDR Evasion Lab for Training & Learning Purposes
@@ -1368,7 +1369,7 @@
 - [Kitsun3Sec/Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets) - A collection of snippets of codes and commands to make your life easier!
 - [guibacellar/TEx](https://github.com/guibacellar/TEx) - Telegram Monitor
 - [p0dalirius/pyLDAPWordlistHarvester](https://github.com/p0dalirius/pyLDAPWordlistHarvester) - A tool to generate a wordlist from the information present in LDAP, in order to crack passwords of domain accounts.
-- [Mazars-Tech/AD_Miner](https://github.com/Mazars-Tech/AD_Miner) - AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses
+- [AD-Security/AD_Miner](https://github.com/AD-Security/AD_Miner) - AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [optiv/KnockKnock](https://github.com/optiv/KnockKnock) - Enumerate valid users within Microsoft Teams and OneDrive with clean output.
 - [DataDog/HASH](https://github.com/DataDog/HASH) - HASH (HTTP Agnostic Software Honeypot)
@@ -1437,6 +1438,8 @@
 
 ## pentesting 
 
+- [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
+- [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
 - [itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck) - Privilege Escalation Enumeration Script for Windows
 - [bitquark/shortscan](https://github.com/bitquark/shortscan) - An IIS short filename enumeration tool
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -1529,6 +1532,7 @@
 
 ## powershell 
 
+- [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
 - [t3l3machus/PowerShell-Obfuscation-Bible](https://github.com/t3l3machus/PowerShell-Obfuscation-Bible) - A collection of techniques, examples and a little bit of theory for manually obfuscating PowerShell scripts to achieve AV evasion, compiled for educational purposes. The contents of this repository ar
 - [hausec/PowerZure](https://github.com/hausec/PowerZure) - PowerShell framework to assess Azure security
 - [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
@@ -1639,10 +1643,6 @@
 - [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
-## qt 
-
-- [3nock/OTE](https://github.com/3nock/OTE) - OSINT Template Engine
-
 ## raspberry-pi 
 
 - [AleksaMCode/Preferred-Network-List-Sniffer](https://github.com/AleksaMCode/Preferred-Network-List-Sniffer) - A reconnaissance tool for capturing and displaying SSIDs from device's Preferred Network List.
@@ -1697,6 +1697,7 @@
 
 ## security 
 
+- [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
 - [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows 10/11 script from scratch. It includes debloat, privacy, performance & app installing scripts.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [bitquark/shortscan](https://github.com/bitquark/shortscan) - An IIS short filename enumeration tool
@@ -1894,7 +1895,6 @@
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [Fundacio-i2CAT/InfoHound](https://github.com/Fundacio-i2CAT/InfoHound) - InfoHound is an OSINT to extract a large amount of data given a web domain name.
-- [3nock/OTE](https://github.com/3nock/OTE) - OSINT Template Engine
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 350 common, vulnerable components (openssl, libpng, libxml2, expat and others), or
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
