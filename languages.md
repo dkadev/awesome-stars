@@ -368,6 +368,7 @@
 
 ## PowerShell 
 
+- [decoder-it/psgetsystem](https://github.com/decoder-it/psgetsystem) - getsystem via parent process using ps1 & embeded c#
 - [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
 - [itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck) - Privilege Escalation Enumeration Script for Windows
 - [Jean-Francois-C/Windows-Penetration-Testing](https://github.com/Jean-Francois-C/Windows-Penetration-Testing) - Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that I find useful during internal penetration tests and assumed breach exercises (red teaming)
