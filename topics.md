@@ -1136,6 +1136,7 @@
 
 ## others 
 
+- [decoder-it/psgetsystem](https://github.com/decoder-it/psgetsystem) - getsystem via parent process using ps1 & embeded c#
 - [GhostPack/Certify](https://github.com/GhostPack/Certify) - Active Directory certificate abuse.
 - [dirkjanm/PKINITtools](https://github.com/dirkjanm/PKINITtools) - Tools for Kerberos PKINIT and relaying to AD CS
 - [gehaxelt/Python-dsstore](https://github.com/gehaxelt/Python-dsstore) - A library for parsing .DS_Store files and extracting file names
