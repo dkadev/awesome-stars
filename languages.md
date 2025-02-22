@@ -402,6 +402,7 @@
 
 ## Python 
 
+- [p0dalirius/Coercer](https://github.com/p0dalirius/Coercer) - A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 12 methods.
 - [login-securite/DonPAPI](https://github.com/login-securite/DonPAPI) - Dumping DPAPI credz remotely
 - [dirkjanm/PKINITtools](https://github.com/dirkjanm/PKINITtools) - Tools for Kerberos PKINIT and relaying to AD CS
 - [gehaxelt/Python-dsstore](https://github.com/gehaxelt/Python-dsstore) - A library for parsing .DS_Store files and extracting file names
