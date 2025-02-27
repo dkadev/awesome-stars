@@ -227,7 +227,7 @@
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [d0ge/sign-saboteur](https://github.com/d0ge/sign-saboteur) - SignSaboteur is a Burp Suite extension for editing, signing, verifying various signed web tokens
 - [Hakky54/certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 🔐 A CLI tool to extract server certificates
-- [akto-api-security/akto](https://github.com/akto-api-security/akto) - Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
+- [akto-api-security/akto](https://github.com/akto-api-security/akto) - Proactive, Open source API security → API discovery, API Security Posture, Testing in CI/CD, Test Library with 1000+ Tests, Add custom tests, Sensitive data exposure
 
 ## JavaScript 
 
@@ -756,7 +756,7 @@
 - [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 An identity and access management (IAM) infrastructure with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework r
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [Zeus-Labs/ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud) - Open Source Cloud Security
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
