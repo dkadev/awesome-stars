@@ -159,7 +159,7 @@
 - [dreadnode/burpference](https://github.com/dreadnode/burpference) - A research project to add some brrrrrr to Burp
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 - [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
 - [dhammon/ai-goat](https://github.com/dhammon/ai-goat) - Learn AI security through a series of vulnerable LLM CTF challenges. No sign ups, no cloud fees, run everything locally on your system.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -261,6 +261,7 @@
 
 ## aws 
 
+- [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) - Telling tales on you for leaking secrets!
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
@@ -277,6 +278,7 @@
 
 ## azure 
 
+- [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [SpecterOps/AzureHound](https://github.com/SpecterOps/AzureHound) - Azure Data Exporter for BloodHound
 - [hausec/PowerZure](https://github.com/hausec/PowerZure) - PowerShell framework to assess Azure security
@@ -362,7 +364,7 @@
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [dvcoolarun/web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀
 - [JoshuaKasa/van-gonography](https://github.com/JoshuaKasa/van-gonography) - Hide 🕵️‍♂️ your files of any type inside a image of your choice using steganography
@@ -589,7 +591,7 @@
 ## git 
 
 - [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 
 ## github 
@@ -635,7 +637,7 @@
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: An LLM-powered web honeypot.
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
@@ -916,7 +918,7 @@
 - [Invicti-Security/brainstorm](https://github.com/Invicti-Security/brainstorm) - A smarter web fuzzing tool that combines local LLM models and ffuf to optimize directory and file discovery
 - [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [dhammon/ai-goat](https://github.com/dhammon/ai-goat) - Learn AI security through a series of vulnerable LLM CTF challenges. No sign ups, no cloud fees, run everything locally on your system.
 - [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: An LLM-powered web honeypot.
@@ -1076,7 +1078,7 @@
 ## openai 
 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: An LLM-powered web honeypot.
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
@@ -1705,6 +1707,7 @@
 
 ## security 
 
+- [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
 - [wireghoul/dotdotpwn](https://github.com/wireghoul/dotdotpwn) - DotDotPwn - The Directory Traversal Fuzzer
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
 - [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows 10/11 script from scratch. It includes debloat, privacy, performance & app installing scripts.
@@ -1973,7 +1976,7 @@
 - [albingroen/react-cmdk](https://github.com/albingroen/react-cmdk) - A fast, accessible, and pretty command palette for React
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
 - [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
-- [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
+- [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 
 ## telegram 
 
@@ -1983,7 +1986,7 @@
 
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large tasks and real world project.
 - [JoshuaKasa/van-gonography](https://github.com/JoshuaKasa/van-gonography) - Hide 🕵️‍♂️ your files of any type inside a image of your choice using steganography
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 
@@ -2046,7 +2049,7 @@
 
 ## vue 
 
-- [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
+- [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 
 ## vuejs 
 
