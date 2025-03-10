@@ -111,6 +111,8 @@
 
 ## Go 
 
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images!
+- [ttpreport/ligolo-mp](https://github.com/ttpreport/ligolo-mp) - Multiplayer pivoting solution
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
 - [D3Ext/Hooka](https://github.com/D3Ext/Hooka) - Shellcode loader generator with multiples features
 - [bitquark/shortscan](https://github.com/bitquark/shortscan) - An IIS short filename enumeration tool
@@ -404,6 +406,7 @@
 
 ## Python 
 
+- [walidzitouni/Link_dumper](https://github.com/walidzitouni/Link_dumper) - Link Dumper is a powerful Python-based web crawler designed for pentesting and reconnaissance.
 - [p0dalirius/Coercer](https://github.com/p0dalirius/Coercer) - A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 12 methods.
 - [login-securite/DonPAPI](https://github.com/login-securite/DonPAPI) - Dumping DPAPI credz remotely
 - [dirkjanm/PKINITtools](https://github.com/dirkjanm/PKINITtools) - Tools for Kerberos PKINIT and relaying to AD CS
